@@ -1,0 +1,15 @@
+[
+    ["speak", "speaks", "spoke", "spoken"],
+    ["sing", "sang", "sung"],
+    ["master", "masterful"],
+    ["margin", "marginal"],
+    ["politics", "policy", "policeman"],
+    ["starve", "starving", "starvation"],
+    ["miraculous", "miracle"],
+    ["music", "musical"],
+    ["run", "runs", "running"],
+    ["fallout"],
+    ["class", "classes", "classroom"],
+    ["room", "roomy"],
+    ["rain", "rainy", "rainfall"]
+]

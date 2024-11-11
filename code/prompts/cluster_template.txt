@@ -1,0 +1,43 @@
+Examine the list of words and cluster them into word families where a word family is made of all words that contain the same root.
+This includes inflections of the same word, such as 'read', 'reads' and 'reading', but also includes derivatives such as 'readable'.
+Think carefully about each word and consider that some words may share a root but experience a stem change.
+In the case of compound nouns, such as 'playground', we have two roots, and you should consider them as members of the familes of both roots.
+
+Format the output as a list of lists, where each inner list contains all the words in a family.
+
+For instance, consider the following list of words in triple backticks ``` ``` as an example input:
+```
+reflection
+national
+rang
+greenhouse
+reflect
+house
+ring
+nation
+housing
+reflecting
+rung
+nationalize
+green
+reflects
+```
+
+You would output the following clusters based on their word families, formatted into a list of lists:
+```
+[
+    ["reflect", "reflects", "reflecting", "reflection"],
+    ["nation", "national", "nationalize"],
+    ["house", "greenhouse", "housing"],
+    ["green", "greenhouse"],
+    ["ring", "rang", "rung"]
+]
+```
+
+Notice that greenhouse is in two word families because it has two roots: "green" and "house". Make sure to do likewise when you encounter words with two or more roots.
+Notice that "ring", "rang", and "rung" belong to the same word family even though they exhibit stem changes.
+
+Now, review the following list of words and cluster them into word families. Make sure to put each and every word in a word family. Only output the list of lists without any explanations.
+```
+{list}
+```

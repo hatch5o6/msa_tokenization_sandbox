@@ -1,0 +1,33 @@
+Examine the following word in tripple backticks `````` and generate the root of the word:
+Think carefully about each word, considering the following:
+    - Think about what the base form of the word is. It may require removing afixes, adjust spelling, and chaning the stem.
+    - If it is a compound word, generate the multiple roots deliminated by a single whitespace.
+
+EXAMPLE 1:
+establishment
+OUTPUT:
+establish
+
+EXAMPLE 2:
+reflects
+OUTPUT:
+reflect
+
+EXAMPLE 3:
+greenhouse
+OUTPUT:
+green house
+
+EXAMPLE 4:
+housing
+OUTPUT:
+house
+
+EXAMPLE 5:
+sung
+OUTPUT:
+sing
+
+
+Now, generate only the root of the following word without explanations:
+```{word}```

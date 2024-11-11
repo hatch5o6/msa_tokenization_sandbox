@@ -1,0 +1,2 @@
+INFO:Namespace(paradigms='word_families/rm_ws_celex_no_word_boundaries.removed.csv', output='aligned_families/rm_ws_celex_word_boundaries/celex.features.no_word_boundaries.removed.csv', features='sounds_files/celex.features.csv', algorithm='Progressive', scores='features', cpu=24, sample=None, debug=False, verbose=False)
+slurmstepd: error: *** JOB 67002782 ON m9g-1-18 CANCELLED AT 2024-11-06T12:19:53 ***

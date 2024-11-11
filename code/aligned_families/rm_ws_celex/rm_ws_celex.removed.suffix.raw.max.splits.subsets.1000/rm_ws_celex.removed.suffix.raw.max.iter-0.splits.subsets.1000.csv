@@ -1,0 +1,4818 @@
+
+s
+	SELECTED: ('s', None), score: 8514, other:NO PARSING AVAILABLE
+	OTHER:
+
+e d
+	SELECTED: ('e d', None), score: 3678, other:NO PARSING AVAILABLE
+	OTHER:
+
+i n g
+	SELECTED: ('i n g', None), score: 3522, other:NO PARSING AVAILABLE
+	OTHER:
+
+e s
+	SELECTED: ('e s', None), score: 2276, other:NO PARSING AVAILABLE
+	OTHER:
+
+e
+	SELECTED: ('e', None), score: 2174, other:NO PARSING AVAILABLE
+	OTHER:
+
+e r
+	SELECTED: ('e r', None), score: 1149, other:NO PARSING AVAILABLE
+	OTHER:
+
+e r s
+	SELECTED: ('e r', 's'), score: 9474, other:960
+	OTHER:
+		('e r s', None), score: 1920
+
+y
+	SELECTED: ('y', None), score: 907, other:NO PARSING AVAILABLE
+	OTHER:
+
+l y
+	SELECTED: ('l y', None), score: 692, other:NO PARSING AVAILABLE
+	OTHER:
+
+i e r
+	SELECTED: ('i e r', None), score: 441, other:NO PARSING AVAILABLE
+	OTHER:
+
+i e s t
+	SELECTED: ('i e s t', None), score: 410, other:NO PARSING AVAILABLE
+	OTHER:
+
+i e s
+	SELECTED: ('i e s', None), score: 317, other:NO PARSING AVAILABLE
+	OTHER:
+
+n e s s
+	SELECTED: ('n e s s', None), score: 237, other:NO PARSING AVAILABLE
+	OTHER:
+
+i n e s s
+	SELECTED: ('i n e s s', None), score: 220, other:NO PARSING AVAILABLE
+	OTHER:
+
+e s t
+	SELECTED: ('e s t', None), score: 204, other:NO PARSING AVAILABLE
+	OTHER:
+
+i t y
+	SELECTED: ('i t y', None), score: 190, other:NO PARSING AVAILABLE
+	OTHER:
+
+a b l e
+	SELECTED: ('a b l e', None), score: 182, other:NO PARSING AVAILABLE
+	OTHER:
+
+t
+	SELECTED: ('t', None), score: 176, other:NO PARSING AVAILABLE
+	OTHER:
+
+i o n
+	SELECTED: ('i o n', None), score: 176, other:NO PARSING AVAILABLE
+	OTHER:
+
+a t i o n
+	SELECTED: ('a t i o n', None), score: 157, other:NO PARSING AVAILABLE
+	OTHER:
+
+g
+	SELECTED: ('g', None), score: 150, other:NO PARSING AVAILABLE
+	OTHER:
+
+i l y
+	SELECTED: ('i l y', None), score: 144, other:NO PARSING AVAILABLE
+	OTHER:
+
+i o n s
+	SELECTED: ('i o n', 's'), score: 9599, other:125
+	OTHER:
+		('i o n s', None), score: 250
+
+e n
+	SELECTED: ('e n', None), score: 125, other:NO PARSING AVAILABLE
+	OTHER:
+
+i c
+	SELECTED: ('i c', None), score: 123, other:NO PARSING AVAILABLE
+	OTHER:
+
+d
+	SELECTED: ('d', None), score: 118, other:NO PARSING AVAILABLE
+	OTHER:
+
+l e s s
+	SELECTED: ('l e s s', None), score: 114, other:NO PARSING AVAILABLE
+	OTHER:
+
+i s m
+	SELECTED: ('i s m', None), score: 114, other:NO PARSING AVAILABLE
+	OTHER:
+
+a l
+	SELECTED: ('a l', None), score: 111, other:NO PARSING AVAILABLE
+	OTHER:
+
+y i n g
+	SELECTED: ('y', 'i n g'), score: 3630, other:108
+	OTHER:
+		('y i n g', None), score: 216
+
+t s
+	SELECTED: ('t', 's'), score: 9707, other:108
+	OTHER:
+		('t s', None), score: 216
+
+a t i o n s
+	SELECTED: ('a t i o n', 's'), score: 9814, other:107
+	OTHER:
+		('a t i o n s', None), score: 214
+
+i z i n g
+	SELECTED: ('i z i n g', None), score: 104, other:NO PARSING AVAILABLE
+	OTHER:
+
+i z e s
+	SELECTED: ('i z e s', None), score: 104, other:NO PARSING AVAILABLE
+	OTHER:
+
+i z e d
+	SELECTED: ('i z e d', None), score: 104, other:NO PARSING AVAILABLE
+	OTHER:
+
+i z e
+	SELECTED: ('i z e', None), score: 104, other:NO PARSING AVAILABLE
+	OTHER:
+
+t i n g
+	SELECTED: ('t', 'i n g'), score: 3731, other:101
+	OTHER:
+		('t i n g', None), score: 202
+
+e l y
+	SELECTED: ('e', 'l y'), score: 2275, other:101
+	OTHER:
+		('e l y', None), score: 202
+
+f u l
+	SELECTED: ('f u l', None), score: 100, other:NO PARSING AVAILABLE
+	OTHER:
+
+t e d
+	SELECTED: ('t', 'e d'), score: 3772, other:94
+	OTHER:
+		('t e d', None), score: 188
+
+i s t s
+	SELECTED: ('i s t s', None), score: 92, other:NO PARSING AVAILABLE
+	OTHER:
+
+i s t
+	SELECTED: ('i s t', None), score: 92, other:NO PARSING AVAILABLE
+	OTHER:
+
+i t i e s
+	SELECTED: ('i t i e s', None), score: 87, other:NO PARSING AVAILABLE
+	OTHER:
+
+i e d
+	SELECTED: ('i e d', None), score: 86, other:NO PARSING AVAILABLE
+	OTHER:
+
+i s h
+	SELECTED: ('i s h', None), score: 83, other:NO PARSING AVAILABLE
+	OTHER:
+
+l i n g
+	SELECTED: ('l i n g', None), score: 81, other:NO PARSING AVAILABLE
+	OTHER:
+
+a t e
+	SELECTED: ('a t e', None), score: 75, other:NO PARSING AVAILABLE
+	OTHER:
+
+o u s
+	SELECTED: ('o u s', None), score: 70, other:NO PARSING AVAILABLE
+	OTHER:
+
+a b l y
+	SELECTED: ('a b l y', None), score: 70, other:NO PARSING AVAILABLE
+	OTHER:
+
+f u l l y
+	SELECTED: ('f u l', 'l y'), score: 862, other:69
+	OTHER:
+		('f u l l y', None), score: 138
+
+a l l y
+	SELECTED: ('a l', 'l y'), score: 931, other:69
+	OTHER:
+		('a l l y', None), score: 138
+
+a g e
+	SELECTED: ('a g e', None), score: 68, other:NO PARSING AVAILABLE
+	OTHER:
+
+o r
+	SELECTED: ('o r', None), score: 67, other:NO PARSING AVAILABLE
+	OTHER:
+
+c e
+	SELECTED: ('c e', None), score: 67, other:NO PARSING AVAILABLE
+	OTHER:
+
+o r s
+	SELECTED: ('o r', 's'), score: 9880, other:66
+	OTHER:
+		('o r s', None), score: 132
+
+l e d
+	SELECTED: ('l e d', None), score: 65, other:NO PARSING AVAILABLE
+	OTHER:
+
+i c a l l y
+	SELECTED: ('i c', 'a l l y'), score: 187, other:64
+	OTHER:
+		('i c a l l y', None), score: 128
+
+i z a t i o n
+	SELECTED: ('i z a t i o n', None), score: 63, other:NO PARSING AVAILABLE
+	OTHER:
+
+a t e s
+	SELECTED: ('a t e', 's'), score: 9943, other:63
+	OTHER:
+		('a t e s', None), score: 126
+
+n
+	SELECTED: ('n', None), score: 60, other:NO PARSING AVAILABLE
+	OTHER:
+
+p e d
+	SELECTED: ('p e d', None), score: 58, other:NO PARSING AVAILABLE
+	OTHER:
+
+a t e d
+	SELECTED: ('a t e', 'd'), score: 195, other:57
+	OTHER:
+		('a t e d', None), score: 114
+
+m e n t
+	SELECTED: ('m e n t', None), score: 56, other:NO PARSING AVAILABLE
+	OTHER:
+
+m a n
+	SELECTED: ('m a n', None), score: 55, other:NO PARSING AVAILABLE
+	OTHER:
+
+e r y
+	SELECTED: ('e r', 'y'), score: 2164, other:55
+	OTHER:
+		('e r y', None), score: 110
+
+p i n g
+	SELECTED: ('p i n g', None), score: 54, other:NO PARSING AVAILABLE
+	OTHER:
+
+m e n
+	SELECTED: ('m e n', None), score: 54, other:NO PARSING AVAILABLE
+	OTHER:
+
+a t i n g
+	SELECTED: ('a t i n g', None), score: 54, other:NO PARSING AVAILABLE
+	OTHER:
+
+c y
+	SELECTED: ('c y', None), score: 53, other:NO PARSING AVAILABLE
+	OTHER:
+
+r
+	SELECTED: ('r', None), score: 52, other:NO PARSING AVAILABLE
+	OTHER:
+
+i v e
+	SELECTED: ('i v e', None), score: 52, other:NO PARSING AVAILABLE
+	OTHER:
+
+e n e s s
+	SELECTED: ('e', 'n e s s'), score: 2326, other:51
+	OTHER:
+		('e n e s s', None), score: 102
+
+v e s
+	SELECTED: ('v e s', None), score: 50, other:NO PARSING AVAILABLE
+	OTHER:
+
+e m e n t
+	SELECTED: ('e', 'm e n t'), score: 2376, other:50
+	OTHER:
+		('e m e n t', None), score: 100
+
+t e
+	SELECTED: ('t', 'e'), score: 2423, other:47
+	OTHER:
+		('t e', None), score: 94
+
+l e s s l y
+	SELECTED: ('l e s s', 'l y'), score: 978, other:47
+	OTHER:
+		('l e s s l y', None), score: 94
+
+r y
+	SELECTED: ('r', 'y'), score: 1116, other:46
+	OTHER:
+		('r y', None), score: 92
+
+f u l n e s s
+	SELECTED: ('f u l', 'n e s s'), score: 332, other:44
+	OTHER:
+		('f u l n e s s', None), score: 88
+
+e n s
+	SELECTED: ('e n', 's'), score: 9987, other:44
+	OTHER:
+		('e n s', None), score: 88
+
+e n i n g
+	SELECTED: ('e n', 'i n g'), score: 3775, other:44
+	OTHER:
+		('e n i n g', None), score: 88
+
+e n e d
+	SELECTED: ('e n', 'e d'), score: 3816, other:44
+	OTHER:
+		('e n e d', None), score: 88
+
+s s
+	SELECTED: ('s', 's'), score: 10071, other:42
+	OTHER:
+		('s s', None), score: 84
+
+d i n g
+	SELECTED: ('d', 'i n g'), score: 3817, other:42
+	OTHER:
+		('d i n g', None), score: 84
+
+h o u s e
+	SELECTED: ('h o u s e', None), score: 41, other:NO PARSING AVAILABLE
+	OTHER:
+
+d s
+	SELECTED: ('d', 's'), score: 10112, other:41
+	OTHER:
+		('d s', None), score: 82
+
+b e d
+	SELECTED: ('b e d', None), score: 41, other:NO PARSING AVAILABLE
+	OTHER:
+
+t e s
+	SELECTED: ('t e', 's'), score: 10152, other:40
+	OTHER:
+		('t e s', None), score: 80
+		('t', 'e s'), score: 2316
+		('t e s', None), score: 80
+		('t', 'e s'), score: 2316
+
+l e s s n e s s
+	SELECTED: ('l e s s', 'n e s s'), score: 372, other:40
+	OTHER:
+		('l e s s n e s s', None), score: 80
+
+l
+	SELECTED: ('l', None), score: 40, other:NO PARSING AVAILABLE
+	OTHER:
+
+h o u s e s
+	SELECTED: ('h o u s e', 's'), score: 10192, other:40
+	OTHER:
+		('h o u s e s', None), score: 80
+
+f
+	SELECTED: ('f', None), score: 40, other:NO PARSING AVAILABLE
+	OTHER:
+
+a n t
+	SELECTED: ('a n t', None), score: 40, other:NO PARSING AVAILABLE
+	OTHER:
+
+i s h l y
+	SELECTED: ('i s h', 'l y'), score: 1017, other:39
+	OTHER:
+		('i s h l y', None), score: 78
+
+r o o m
+	SELECTED: ('r o o m', None), score: 37, other:NO PARSING AVAILABLE
+	OTHER:
+
+o u s l y
+	SELECTED: ('o u s', 'l y'), score: 1054, other:37
+	OTHER:
+		('o u s l y', None), score: 74
+
+n e d
+	SELECTED: ('n', 'e d'), score: 3853, other:37
+	OTHER:
+		('n e d', None), score: 74
+
+i v e l y
+	SELECTED: ('i v e', 'l y'), score: 1091, other:37
+	OTHER:
+		('i v e l y', None), score: 74
+
+m e n t s
+	SELECTED: ('m e n t', 's'), score: 10228, other:36
+	OTHER:
+		('m e n t s', None), score: 72
+		('m e n t s', None), score: 72
+		('m e n', 't s'), score: 144
+
+i c a l
+	SELECTED: ('i c', 'a l'), score: 223, other:36
+	OTHER:
+		('i c a l', None), score: 72
+
+e s s
+	SELECTED: ('e s', 's'), score: 10264, other:36
+	OTHER:
+		('e s s', None), score: 72
+		('e s s', None), score: 72
+		('e', 's s'), score: 2459
+
+e l e s s
+	SELECTED: ('e', 'l e s s'), score: 2459, other:36
+	OTHER:
+		('e l e s s', None), score: 72
+
+a r y
+	SELECTED: ('a r y', None), score: 36, other:NO PARSING AVAILABLE
+	OTHER:
+
+a n c e
+	SELECTED: ('a n c e', None), score: 36, other:NO PARSING AVAILABLE
+	OTHER:
+
+r o o m s
+	SELECTED: ('r o o m', 's'), score: 10299, other:35
+	OTHER:
+		('r o o m s', None), score: 70
+
+g e d
+	SELECTED: ('g', 'e d'), score: 3888, other:35
+	OTHER:
+		('g e d', None), score: 70
+
+s t
+	SELECTED: ('s', 't'), score: 10333, other:34
+	OTHER:
+		('s t', None), score: 68
+
+e m e n t s
+	SELECTED: ('e m e n t', 's'), score: 10367, other:34
+	OTHER:
+		('e m e n t s', None), score: 68
+		('e', 'm e n t s'), score: 2493
+		('e m e n t s', None), score: 68
+		('e', 'm e n t s'), score: 2493
+
+c e s
+	SELECTED: ('c e', 's'), score: 10401, other:34
+	OTHER:
+		('c e s', None), score: 68
+
+u s
+	SELECTED: ('u s', None), score: 33, other:NO PARSING AVAILABLE
+	OTHER:
+
+i z a t i o n s
+	SELECTED: ('i z a t i o n', 's'), score: 10434, other:33
+	OTHER:
+		('i z a t i o n s', None), score: 66
+
+i s h n e s s
+	SELECTED: ('i s h', 'n e s s'), score: 405, other:33
+	OTHER:
+		('i s h n e s s', None), score: 66
+
+i e r s
+	SELECTED: ('i e r', 's'), score: 10466, other:32
+	OTHER:
+		('i e r s', None), score: 64
+
+e r i e s
+	SELECTED: ('e r', 'i e s'), score: 2196, other:32
+	OTHER:
+		('e r i e s', None), score: 64
+
+a g e s
+	SELECTED: ('a g e', 's'), score: 10498, other:32
+	OTHER:
+		('a g e s', None), score: 64
+
+' s
+	SELECTED: ("' s", None), score: 32, other:NO PARSING AVAILABLE
+	OTHER:
+
+t h
+	SELECTED: ('t h', None), score: 31, other:NO PARSING AVAILABLE
+	OTHER:
+
+i f i e d
+	SELECTED: ('i f i e d', None), score: 31, other:NO PARSING AVAILABLE
+	OTHER:
+
+d e d
+	SELECTED: ('d', 'e d'), score: 3919, other:31
+	OTHER:
+		('d e d', None), score: 62
+
+b i n g
+	SELECTED: ('b i n g', None), score: 31, other:NO PARSING AVAILABLE
+	OTHER:
+
+s h i p
+	SELECTED: ('s h i p', None), score: 30, other:NO PARSING AVAILABLE
+	OTHER:
+
+l i n e s s
+	SELECTED: ('l', 'i n e s s'), score: 250, other:30
+	OTHER:
+		('l i n e s s', None), score: 60
+
+t l y
+	SELECTED: ('t', 'l y'), score: 1120, other:29
+	OTHER:
+		('t l y', None), score: 58
+
+n s
+	SELECTED: ('n', 's'), score: 10527, other:29
+	OTHER:
+		('n s', None), score: 58
+
+i f y i n g
+	SELECTED: ('i f y i n g', None), score: 29, other:NO PARSING AVAILABLE
+	OTHER:
+
+i f y
+	SELECTED: ('i f y', None), score: 29, other:NO PARSING AVAILABLE
+	OTHER:
+
+i f i e s
+	SELECTED: ('i f i e s', None), score: 29, other:NO PARSING AVAILABLE
+	OTHER:
+
+i d
+	SELECTED: ('i d', None), score: 29, other:NO PARSING AVAILABLE
+	OTHER:
+
+b o a r d
+	SELECTED: ('b o a r d', None), score: 29, other:NO PARSING AVAILABLE
+	OTHER:
+
+n i n g
+	SELECTED: ('n', 'i n g'), score: 3845, other:28
+	OTHER:
+		('n i n g', None), score: 56
+
+l s
+	SELECTED: ('l', 's'), score: 10555, other:28
+	OTHER:
+		('l s', None), score: 56
+
+a
+	SELECTED: ('a', None), score: 28, other:NO PARSING AVAILABLE
+	OTHER:
+
+r s
+	SELECTED: ('r', 's'), score: 10582, other:27
+	OTHER:
+		('r s', None), score: 54
+
+i
+	SELECTED: ('i', None), score: 27, other:NO PARSING AVAILABLE
+	OTHER:
+
+e f u l
+	SELECTED: ('e', 'f u l'), score: 2486, other:27
+	OTHER:
+		('e f u l', None), score: 54
+
+e e s
+	SELECTED: ('e', 'e s'), score: 2513, other:27
+	OTHER:
+		('e e s', None), score: 54
+
+e e
+	SELECTED: ('e', 'e'), score: 2567, other:27
+	OTHER:
+		('e e', None), score: 54
+
+y s
+	SELECTED: ('y', 's'), score: 10608, other:26
+	OTHER:
+		('y s', None), score: 52
+
+t y
+	SELECTED: ('t', 'y'), score: 1168, other:26
+	OTHER:
+		('t y', None), score: 52
+
+p e r s
+	SELECTED: ('p e r s', None), score: 26, other:NO PARSING AVAILABLE
+	OTHER:
+
+p e r
+	SELECTED: ('p e r', None), score: 26, other:NO PARSING AVAILABLE
+	OTHER:
+
+k
+	SELECTED: ('k', None), score: 26, other:NO PARSING AVAILABLE
+	OTHER:
+
+i e
+	SELECTED: ('i', 'e'), score: 2593, other:26
+	OTHER:
+		('i e', None), score: 52
+
+a l s
+	SELECTED: ('a l', 's'), score: 10634, other:26
+	OTHER:
+		('a l s', None), score: 52
+		('a l s', None), score: 52
+		('a', 'l s'), score: 54
+
+x
+	SELECTED: ('x', None), score: 25, other:NO PARSING AVAILABLE
+	OTHER:
+
+s m e n
+	SELECTED: ('s', 'm e n'), score: 10659, other:25
+	OTHER:
+		('s m e n', None), score: 50
+
+s m a n
+	SELECTED: ('s', 'm a n'), score: 10684, other:25
+	OTHER:
+		('s m a n', None), score: 50
+
+l i e s t
+	SELECTED: ('l', 'i e s t'), score: 435, other:25
+	OTHER:
+		('l i e s t', None), score: 50
+
+l i e r
+	SELECTED: ('l', 'i e r'), score: 498, other:25
+	OTHER:
+		('l i e r', None), score: 50
+
+k s
+	SELECTED: ('k', 's'), score: 10709, other:25
+	OTHER:
+		('k s', None), score: 50
+
+b o x e s
+	SELECTED: ('b o x e s', None), score: 25, other:NO PARSING AVAILABLE
+	OTHER:
+
+b o x
+	SELECTED: ('b o x', None), score: 25, other:NO PARSING AVAILABLE
+	OTHER:
+
+w o r k
+	SELECTED: ('w o r k', None), score: 24, other:NO PARSING AVAILABLE
+	OTHER:
+
+t h s
+	SELECTED: ('t h', 's'), score: 10733, other:24
+	OTHER:
+		('t h s', None), score: 48
+
+l e r
+	SELECTED: ('l', 'e r'), score: 2220, other:24
+	OTHER:
+		('l e r', None), score: 48
+
+i b l e
+	SELECTED: ('i b l e', None), score: 24, other:NO PARSING AVAILABLE
+	OTHER:
+
+b o a r d s
+	SELECTED: ('b o a r d', 's'), score: 10757, other:24
+	OTHER:
+		('b o a r d s', None), score: 48
+
+' t
+	SELECTED: ("' t", None), score: 24, other:NO PARSING AVAILABLE
+	OTHER:
+
+t i o n
+	SELECTED: ('t', 'i o n'), score: 638, other:23
+	OTHER:
+		('t i o n', None), score: 46
+
+s h i p s
+	SELECTED: ('s h i p', 's'), score: 10780, other:23
+	OTHER:
+		('s h i p s', None), score: 46
+
+s e s
+	SELECTED: ('s', 'e s'), score: 10803, other:23
+	OTHER:
+		('s e s', None), score: 46
+
+l i n e
+	SELECTED: ('l i n e', None), score: 23, other:NO PARSING AVAILABLE
+	OTHER:
+
+l e r s
+	SELECTED: ('l e r', 's'), score: 10826, other:23
+	OTHER:
+		('l e r s', None), score: 46
+		('l', 'e r s'), score: 983
+		('l e r s', None), score: 46
+		('l', 'e r s'), score: 983
+
+c i e s
+	SELECTED: ('c i e s', None), score: 23, other:NO PARSING AVAILABLE
+	OTHER:
+
+a r
+	SELECTED: ('a', 'r'), score: 148, other:23
+	OTHER:
+		('a r', None), score: 46
+
+w a y
+	SELECTED: ('w a y', None), score: 22, other:NO PARSING AVAILABLE
+	OTHER:
+
+i v e n e s s
+	SELECTED: ('i v e', 'n e s s'), score: 427, other:22
+	OTHER:
+		('i v e n e s s', None), score: 44
+
+i a l
+	SELECTED: ('i', 'a l'), score: 264, other:22
+	OTHER:
+		('i a l', None), score: 44
+
+h e a d
+	SELECTED: ('h e a d', None), score: 22, other:NO PARSING AVAILABLE
+	OTHER:
+
+g i n g
+	SELECTED: ('g', 'i n g'), score: 3867, other:22
+	OTHER:
+		('g i n g', None), score: 44
+
+f u l s
+	SELECTED: ('f u l', 's'), score: 10848, other:22
+	OTHER:
+		('f u l s', None), score: 44
+
+e t s
+	SELECTED: ('e', 't s'), score: 2615, other:22
+	OTHER:
+		('e t s', None), score: 44
+
+e t
+	SELECTED: ('e', 't'), score: 2637, other:22
+	OTHER:
+		('e t', None), score: 44
+
+e s s e s
+	SELECTED: ('e s s', 'e s'), score: 2384, other:22
+	OTHER:
+		('e s s e s', None), score: 44
+		('e s', 's e s'), score: 2384
+		('e s s e s', None), score: 44
+		('e s', 's e s'), score: 2384
+
+a n t s
+	SELECTED: ('a n t', 's'), score: 10870, other:22
+	OTHER:
+		('a n t s', None), score: 44
+
+u s e s
+	SELECTED: ('u s', 'e s'), score: 2405, other:21
+	OTHER:
+		('u s e s', None), score: 42
+
+t i c
+	SELECTED: ('t', 'i c'), score: 681, other:21
+	OTHER:
+		('t i c', None), score: 42
+
+t e r
+	SELECTED: ('t', 'e r'), score: 2241, other:21
+	OTHER:
+		('t e r', None), score: 42
+		('t e r', None), score: 42
+		('t e', 'r'), score: 169
+
+l i n e s
+	SELECTED: ('l i n e', 's'), score: 10891, other:21
+	OTHER:
+		('l i n e s', None), score: 42
+
+k i n g
+	SELECTED: ('k', 'i n g'), score: 3888, other:21
+	OTHER:
+		('k i n g', None), score: 42
+
+k e d
+	SELECTED: ('k', 'e d'), score: 3940, other:21
+	OTHER:
+		('k e d', None), score: 42
+
+i s t i c
+	SELECTED: ('i s t', 'i c'), score: 265, other:21
+	OTHER:
+		('i s t i c', None), score: 42
+
+e r e d
+	SELECTED: ('e r', 'e d'), score: 3961, other:21
+	OTHER:
+		('e r e d', None), score: 42
+
+' d
+	SELECTED: ("' d", None), score: 21, other:NO PARSING AVAILABLE
+	OTHER:
+
+w a y s
+	SELECTED: ('w a y', 's'), score: 10911, other:20
+	OTHER:
+		('w a y s', None), score: 40
+
+u r e
+	SELECTED: ('u r e', None), score: 20, other:NO PARSING AVAILABLE
+	OTHER:
+
+t e r s
+	SELECTED: ('t e r', 's'), score: 10931, other:20
+	OTHER:
+		('t e r s', None), score: 40
+		('t', 'e r s'), score: 980
+		('t e r s', None), score: 40
+		('t', 'e r s'), score: 980
+		('t e', 'r s'), score: 107
+		('t e r s', None), score: 40
+		('t', 'e r s'), score: 980
+		('t e', 'r s'), score: 107
+
+s t o n e
+	SELECTED: ('s t o n e', None), score: 20, other:NO PARSING AVAILABLE
+	OTHER:
+
+h e a d s
+	SELECTED: ('h e a d', 's'), score: 10951, other:20
+	OTHER:
+		('h e a d s', None), score: 40
+
+f s
+	SELECTED: ('f', 's'), score: 10971, other:20
+	OTHER:
+		('f s', None), score: 40
+
+e f u l l y
+	SELECTED: ('e', 'f u l l y'), score: 2657, other:20
+	OTHER:
+		('e f u l l y', None), score: 40
+		('e f u l l y', None), score: 40
+		('e f u l', 'l y'), score: 1140
+
+u a l
+	SELECTED: ('u a l', None), score: 19, other:NO PARSING AVAILABLE
+	OTHER:
+
+r i e s
+	SELECTED: ('r', 'i e s'), score: 368, other:19
+	OTHER:
+		('r i e s', None), score: 38
+
+o u s n e s s
+	SELECTED: ('o u s', 'n e s s'), score: 446, other:19
+	OTHER:
+		('o u s n e s s', None), score: 38
+
+i f i c a t i o n
+	SELECTED: ('i f i c a t i o n', None), score: 19, other:NO PARSING AVAILABLE
+	OTHER:
+
+e l e s s l y
+	SELECTED: ('e', 'l e s s l y'), score: 2676, other:19
+	OTHER:
+		('e l e s s l y', None), score: 38
+		('e l e s s l y', None), score: 38
+		('e l e s s', 'l y'), score: 1139
+
+a n c e s
+	SELECTED: ('a n c e', 's'), score: 10990, other:19
+	OTHER:
+		('a n c e s', None), score: 38
+
+i c e
+	SELECTED: ('i c', 'e'), score: 2694, other:18
+	OTHER:
+		('i c e', None), score: 36
+		('i c e', None), score: 36
+		('i', 'c e'), score: 119
+
+d e r
+	SELECTED: ('d', 'e r'), score: 2280, other:18
+	OTHER:
+		('d e r', None), score: 36
+
+u p
+	SELECTED: ('u p', None), score: 17, other:NO PARSING AVAILABLE
+	OTHER:
+
+s o m e
+	SELECTED: ('s o m e', None), score: 17, other:NO PARSING AVAILABLE
+	OTHER:
+
+o t h
+	SELECTED: ('o t h', None), score: 17, other:NO PARSING AVAILABLE
+	OTHER:
+
+e y e d
+	SELECTED: ('e y e d', None), score: 17, other:NO PARSING AVAILABLE
+	OTHER:
+
+b o o k
+	SELECTED: ('b o o k', None), score: 17, other:NO PARSING AVAILABLE
+	OTHER:
+
+' l l
+	SELECTED: ("' l l", None), score: 17, other:NO PARSING AVAILABLE
+	OTHER:
+
+u a l l y
+	SELECTED: ('u a l', 'l y'), score: 1136, other:16
+	OTHER:
+		('u a l l y', None), score: 32
+
+t i m e
+	SELECTED: ('t i m e', None), score: 16, other:NO PARSING AVAILABLE
+	OTHER:
+
+t i c a l l y
+	SELECTED: ('t', 'i c a l l y'), score: 718, other:16
+	OTHER:
+		('t i c a l l y', None), score: 32
+		('t i c a l l y', None), score: 32
+		('t i c', 'a l l y'), score: 149
+
+s t o n e s
+	SELECTED: ('s t o n e', 's'), score: 11006, other:16
+	OTHER:
+		('s t o n e s', None), score: 32
+
+l i g h t
+	SELECTED: ('l i g h t', None), score: 16, other:NO PARSING AVAILABLE
+	OTHER:
+
+i f i c a t i o n s
+	SELECTED: ('i f i c a t i o n', 's'), score: 11022, other:16
+	OTHER:
+		('i f i c a t i o n s', None), score: 32
+
+f i s h
+	SELECTED: ('f', 'i s h'), score: 171, other:16
+	OTHER:
+		('f i s h', None), score: 32
+
+e l e s s n e s s
+	SELECTED: ('e', 'l e s s n e s s'), score: 2710, other:16
+	OTHER:
+		('e l e s s n e s s', None), score: 32
+		('e l e s s n e s s', None), score: 32
+		('e l e s s', 'n e s s'), score: 462
+
+b o y
+	SELECTED: ('b o y', None), score: 16, other:NO PARSING AVAILABLE
+	OTHER:
+
+b o o k s
+	SELECTED: ('b o o k', 's'), score: 11038, other:16
+	OTHER:
+		('b o o k s', None), score: 32
+
+a b i l i t y
+	SELECTED: ('a b i l i t y', None), score: 16, other:NO PARSING AVAILABLE
+	OTHER:
+
+y e r
+	SELECTED: ('y', 'e r'), score: 2295, other:15
+	OTHER:
+		('y e r', None), score: 30
+
+u r e s
+	SELECTED: ('u r e', 's'), score: 11053, other:15
+	OTHER:
+		('u r e s', None), score: 30
+
+s t e r s
+	SELECTED: ('s', 't e r s'), score: 11068, other:15
+	OTHER:
+		('s t e r s', None), score: 30
+		('s t e r s', None), score: 30
+		('s t', 'e r s'), score: 975
+
+s t e r
+	SELECTED: ('s', 't e r'), score: 11083, other:15
+	OTHER:
+		('s t e r', None), score: 30
+		('s t e r', None), score: 30
+		('s t', 'e r'), score: 2310
+
+s i o n
+	SELECTED: ('s', 'i o n'), score: 11098, other:15
+	OTHER:
+		('s i o n', None), score: 30
+
+r i n g
+	SELECTED: ('r', 'i n g'), score: 3903, other:15
+	OTHER:
+		('r i n g', None), score: 30
+
+i o u s
+	SELECTED: ('i', 'o u s'), score: 141, other:15
+	OTHER:
+		('i o u s', None), score: 30
+
+f e
+	SELECTED: ('f', 'e'), score: 2725, other:15
+	OTHER:
+		('f e', None), score: 30
+
+e y
+	SELECTED: ('e', 'y'), score: 2740, other:15
+	OTHER:
+		('e y', None), score: 30
+
+e f u l n e s s
+	SELECTED: ('e', 'f u l n e s s'), score: 2755, other:15
+	OTHER:
+		('e f u l n e s s', None), score: 30
+		('e f u l n e s s', None), score: 30
+		('e f u l', 'n e s s'), score: 461
+
+e a b l e
+	SELECTED: ('e', 'a b l e'), score: 2770, other:15
+	OTHER:
+		('e a b l e', None), score: 30
+
+d e r s
+	SELECTED: ('d e r', 's'), score: 11113, other:15
+	OTHER:
+		('d e r s', None), score: 30
+		('d', 'e r s'), score: 975
+		('d e r s', None), score: 30
+		('d', 'e r s'), score: 975
+
+d a y s
+	SELECTED: ('d a y s', None), score: 15, other:NO PARSING AVAILABLE
+	OTHER:
+
+d a y
+	SELECTED: ('d a y', None), score: 15, other:NO PARSING AVAILABLE
+	OTHER:
+
+b o y s
+	SELECTED: ('b o y', 's'), score: 11128, other:15
+	OTHER:
+		('b o y s', None), score: 30
+
+b a l l
+	SELECTED: ('b a l l', None), score: 15, other:NO PARSING AVAILABLE
+	OTHER:
+
+u r
+	SELECTED: ('u r', None), score: 14, other:NO PARSING AVAILABLE
+	OTHER:
+
+t i e s
+	SELECTED: ('t', 'i e s'), score: 732, other:14
+	OTHER:
+		('t i e s', None), score: 28
+
+s i n g
+	SELECTED: ('s', 'i n g'), score: 11142, other:14
+	OTHER:
+		('s i n g', None), score: 28
+
+o n
+	SELECTED: ('o n', None), score: 14, other:NO PARSING AVAILABLE
+	OTHER:
+
+m e d
+	SELECTED: ('m e d', None), score: 14, other:NO PARSING AVAILABLE
+	OTHER:
+
+l i n g s
+	SELECTED: ('l i n g', 's'), score: 11156, other:14
+	OTHER:
+		('l i n g s', None), score: 28
+
+l i k e
+	SELECTED: ('l i k e', None), score: 14, other:NO PARSING AVAILABLE
+	OTHER:
+
+i n g s
+	SELECTED: ('i n g', 's'), score: 11170, other:14
+	OTHER:
+		('i n g s', None), score: 28
+
+i n g l y
+	SELECTED: ('i n g', 'l y'), score: 3945, other:14
+	OTHER:
+		('i n g l y', None), score: 28
+
+i n e
+	SELECTED: ('i n e', None), score: 14, other:NO PARSING AVAILABLE
+	OTHER:
+
+i a l l y
+	SELECTED: ('i a l', 'l y'), score: 1164, other:14
+	OTHER:
+		('i a l l y', None), score: 28
+		('i', 'a l l y'), score: 147
+		('i a l l y', None), score: 28
+		('i', 'a l l y'), score: 147
+
+h o l e s
+	SELECTED: ('h o l e s', None), score: 14, other:NO PARSING AVAILABLE
+	OTHER:
+
+h o l e
+	SELECTED: ('h o l e', None), score: 14, other:NO PARSING AVAILABLE
+	OTHER:
+
+h e a r t e d
+	SELECTED: ('h e a r t e d', None), score: 14, other:NO PARSING AVAILABLE
+	OTHER:
+
+f e d
+	SELECTED: ('f', 'e d'), score: 3975, other:14
+	OTHER:
+		('f e d', None), score: 28
+		('f e d', None), score: 28
+		('f e', 'd'), score: 321
+
+e r i n g
+	SELECTED: ('e r', 'i n g'), score: 3959, other:14
+	OTHER:
+		('e r i n g', None), score: 28
+		('e', 'r i n g'), score: 2784
+		('e r i n g', None), score: 28
+		('e', 'r i n g'), score: 2784
+
+e n t
+	SELECTED: ('e n', 't'), score: 746, other:14
+	OTHER:
+		('e n t', None), score: 28
+
+e m e n
+	SELECTED: ('e', 'm e n'), score: 2784, other:14
+	OTHER:
+		('e m e n', None), score: 28
+
+e m a n
+	SELECTED: ('e', 'm a n'), score: 2798, other:14
+	OTHER:
+		('e m a n', None), score: 28
+
+e d l y
+	SELECTED: ('e d', 'l y'), score: 3989, other:14
+	OTHER:
+		('e d l y', None), score: 28
+
+b o a t s
+	SELECTED: ('b o a t s', None), score: 14, other:NO PARSING AVAILABLE
+	OTHER:
+
+b o a t
+	SELECTED: ('b o a t', None), score: 14, other:NO PARSING AVAILABLE
+	OTHER:
+
+b a c k
+	SELECTED: ('b a c k', None), score: 14, other:NO PARSING AVAILABLE
+	OTHER:
+
+a s
+	SELECTED: ('a', 's'), score: 11184, other:14
+	OTHER:
+		('a s', None), score: 28
+
+y e r s
+	SELECTED: ('y e r', 's'), score: 11197, other:13
+	OTHER:
+		('y e r s', None), score: 26
+		('y', 'e r s'), score: 1211
+		('y e r s', None), score: 26
+		('y', 'e r s'), score: 1211
+
+t i o n s
+	SELECTED: ('t i o n', 's'), score: 11210, other:13
+	OTHER:
+		('t i o n s', None), score: 26
+		('t', 'i o n s'), score: 759
+		('t i o n s', None), score: 26
+		('t', 'i o n s'), score: 759
+
+s e d
+	SELECTED: ('s', 'e d'), score: 11223, other:13
+	OTHER:
+		('s e d', None), score: 26
+
+p o i n t s
+	SELECTED: ('p o i n t s', None), score: 13, other:NO PARSING AVAILABLE
+	OTHER:
+
+p o i n t
+	SELECTED: ('p o i n t', None), score: 13, other:NO PARSING AVAILABLE
+	OTHER:
+
+o
+	SELECTED: ('o', None), score: 13, other:NO PARSING AVAILABLE
+	OTHER:
+
+i s t i c a l l y
+	SELECTED: ('i s t i c', 'a l l y'), score: 146, other:13
+	OTHER:
+		('i s t i c a l l y', None), score: 26
+		('i s t', 'i c a l l y'), score: 126
+		('i s t i c a l l y', None), score: 26
+		('i s t', 'i c a l l y'), score: 126
+
+i b i l i t y
+	SELECTED: ('i b i l i t y', None), score: 13, other:NO PARSING AVAILABLE
+	OTHER:
+
+f i s h e s
+	SELECTED: ('f i s h', 'e s'), score: 2418, other:13
+	OTHER:
+		('f i s h e s', None), score: 26
+
+e o u s
+	SELECTED: ('e', 'o u s'), score: 2811, other:13
+	OTHER:
+		('e o u s', None), score: 26
+
+e n c e
+	SELECTED: ('e n', 'c e'), score: 284, other:13
+	OTHER:
+		('e n c e', None), score: 26
+
+b e r
+	SELECTED: ('b e r', None), score: 13, other:NO PARSING AVAILABLE
+	OTHER:
+
+b a c k s
+	SELECTED: ('b a c k', 's'), score: 11236, other:13
+	OTHER:
+		('b a c k s', None), score: 26
+
+a r i e s
+	SELECTED: ('a r', 'i e s'), score: 395, other:13
+	OTHER:
+		('a r i e s', None), score: 26
+		('a', 'r i e s'), score: 78
+		('a r i e s', None), score: 26
+		('a', 'r i e s'), score: 78
+
+' v e
+	SELECTED: ("' v e", None), score: 13, other:NO PARSING AVAILABLE
+	OTHER:
+
+x e s
+	SELECTED: ('x', 'e s'), score: 2430, other:12
+	OTHER:
+		('x e s', None), score: 24
+
+w o o d
+	SELECTED: ('w o o d', None), score: 12, other:NO PARSING AVAILABLE
+	OTHER:
+
+v e
+	SELECTED: ('v e', None), score: 12, other:NO PARSING AVAILABLE
+	OTHER:
+
+s t i c k
+	SELECTED: ('s t i c k', None), score: 12, other:NO PARSING AVAILABLE
+	OTHER:
+
+s k i n
+	SELECTED: ('s k i n', None), score: 12, other:NO PARSING AVAILABLE
+	OTHER:
+
+s e
+	SELECTED: ('s', 'e'), score: 11248, other:12
+	OTHER:
+		('s e', None), score: 24
+
+p r o o f
+	SELECTED: ('p r o o f', None), score: 12, other:NO PARSING AVAILABLE
+	OTHER:
+
+p o t s
+	SELECTED: ('p o t s', None), score: 12, other:NO PARSING AVAILABLE
+	OTHER:
+
+o u t
+	SELECTED: ('o u t', None), score: 12, other:NO PARSING AVAILABLE
+	OTHER:
+
+n u t s
+	SELECTED: ('n u t s', None), score: 12, other:NO PARSING AVAILABLE
+	OTHER:
+
+n u t
+	SELECTED: ('n u t', None), score: 12, other:NO PARSING AVAILABLE
+	OTHER:
+
+m i n g
+	SELECTED: ('m i n g', None), score: 12, other:NO PARSING AVAILABLE
+	OTHER:
+
+l i g h t s
+	SELECTED: ('l i g h t', 's'), score: 11260, other:12
+	OTHER:
+		('l i g h t s', None), score: 24
+
+i s m s
+	SELECTED: ('i s m', 's'), score: 11272, other:12
+	OTHER:
+		('i s m s', None), score: 24
+
+i c e s
+	SELECTED: ('i c e', 's'), score: 11284, other:12
+	OTHER:
+		('i c e s', None), score: 24
+		('i c', 'e s'), score: 2442
+		('i c e s', None), score: 24
+		('i c', 'e s'), score: 2442
+		('i', 'c e s'), score: 102
+		('i c e s', None), score: 24
+		('i c', 'e s'), score: 2442
+		('i', 'c e s'), score: 102
+
+i b l y
+	SELECTED: ('i b l y', None), score: 12, other:NO PARSING AVAILABLE
+	OTHER:
+
+h e a d e d
+	SELECTED: ('h e a d', 'e d'), score: 4014, other:12
+	OTHER:
+		('h e a d e d', None), score: 24
+
+e o u s l y
+	SELECTED: ('e', 'o u s l y'), score: 2835, other:12
+	OTHER:
+		('e o u s l y', None), score: 24
+		('e o u s l y', None), score: 24
+		('e o u s', 'l y'), score: 1190
+
+c a k e
+	SELECTED: ('c a k e', None), score: 12, other:NO PARSING AVAILABLE
+	OTHER:
+
+b a l l s
+	SELECTED: ('b a l l', 's'), score: 11296, other:12
+	OTHER:
+		('b a l l s', None), score: 24
+
+a t i v e
+	SELECTED: ('a t i v e', None), score: 12, other:NO PARSING AVAILABLE
+	OTHER:
+
+a t i c
+	SELECTED: ('a', 't i c'), score: 77, other:12
+	OTHER:
+		('a t i c', None), score: 24
+
+' r e
+	SELECTED: ("' r e", None), score: 12, other:NO PARSING AVAILABLE
+	OTHER:
+
+u p s
+	SELECTED: ('u p', 's'), score: 11307, other:11
+	OTHER:
+		('u p s', None), score: 22
+
+t r e e s
+	SELECTED: ('t r e e s', None), score: 11, other:NO PARSING AVAILABLE
+	OTHER:
+
+t r e e
+	SELECTED: ('t r e e', None), score: 11, other:NO PARSING AVAILABLE
+	OTHER:
+
+t a b l e
+	SELECTED: ('t', 'a b l e'), score: 757, other:11
+	OTHER:
+		('t a b l e', None), score: 22
+
+s t i c k s
+	SELECTED: ('s t i c k', 's'), score: 11318, other:11
+	OTHER:
+		('s t i c k s', None), score: 22
+
+r e d
+	SELECTED: ('r', 'e d'), score: 4025, other:11
+	OTHER:
+		('r e d', None), score: 22
+
+p o t
+	SELECTED: ('p o t', None), score: 11, other:NO PARSING AVAILABLE
+	OTHER:
+
+o s
+	SELECTED: ('o', 's'), score: 11329, other:11
+	OTHER:
+		('o s', None), score: 22
+
+l a n d
+	SELECTED: ('l a n d', None), score: 11, other:NO PARSING AVAILABLE
+	OTHER:
+
+k e r s
+	SELECTED: ('k', 'e r s'), score: 971, other:11
+	OTHER:
+		('k e r s', None), score: 22
+
+k e r
+	SELECTED: ('k', 'e r'), score: 2320, other:11
+	OTHER:
+		('k e r', None), score: 22
+
+i o u s l y
+	SELECTED: ('i o u s', 'l y'), score: 1189, other:11
+	OTHER:
+		('i o u s l y', None), score: 22
+		('i', 'o u s l y'), score: 101
+		('i o u s l y', None), score: 22
+		('i', 'o u s l y'), score: 101
+
+i n
+	SELECTED: ('i', 'n'), score: 165, other:11
+	OTHER:
+		('i n', None), score: 22
+
+i l e
+	SELECTED: ('i l e', None), score: 11, other:NO PARSING AVAILABLE
+	OTHER:
+
+i d s
+	SELECTED: ('i d', 's'), score: 11340, other:11
+	OTHER:
+		('i d s', None), score: 22
+		('i d s', None), score: 22
+		('i', 'd s'), score: 112
+
+f i n g
+	SELECTED: ('f', 'i n g'), score: 3970, other:11
+	OTHER:
+		('f i n g', None), score: 22
+
+d o m
+	SELECTED: ('d o m', None), score: 11, other:NO PARSING AVAILABLE
+	OTHER:
+
+b y
+	SELECTED: ('b y', None), score: 11, other:NO PARSING AVAILABLE
+	OTHER:
+
+b o u n d
+	SELECTED: ('b o u n d', None), score: 11, other:NO PARSING AVAILABLE
+	OTHER:
+
+b l e
+	SELECTED: ('b l e', None), score: 11, other:NO PARSING AVAILABLE
+	OTHER:
+
+a t o r y
+	SELECTED: ('a t o r y', None), score: 11, other:NO PARSING AVAILABLE
+	OTHER:
+
+w o r k s
+	SELECTED: ('w o r k', 's'), score: 11350, other:10
+	OTHER:
+		('w o r k s', None), score: 20
+
+w o m e n
+	SELECTED: ('w o m e n', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+w o m a n
+	SELECTED: ('w o m a n', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+t o r
+	SELECTED: ('t', 'o r'), score: 767, other:10
+	OTHER:
+		('t o r', None), score: 20
+
+t e l y
+	SELECTED: ('t e', 'l y'), score: 1199, other:10
+	OTHER:
+		('t e l y', None), score: 20
+		('t', 'e l y'), score: 777
+		('t e l y', None), score: 20
+		('t', 'e l y'), score: 777
+
+s k i n s
+	SELECTED: ('s k i n', 's'), score: 11360, other:10
+	OTHER:
+		('s k i n s', None), score: 20
+
+s i o n s
+	SELECTED: ('s i o n', 's'), score: 11370, other:10
+	OTHER:
+		('s i o n s', None), score: 20
+		('s', 'i o n s'), score: 11370
+		('s i o n s', None), score: 20
+		('s', 'i o n s'), score: 11370
+
+p o s t s
+	SELECTED: ('p o s t s', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+p o s t
+	SELECTED: ('p o s t', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+o t h s
+	SELECTED: ('o t h', 's'), score: 11380, other:10
+	OTHER:
+		('o t h s', None), score: 20
+		('o t h s', None), score: 20
+		('o', 't h s'), score: 34
+
+m i n d e d
+	SELECTED: ('m i n d e d', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+m i l l s
+	SELECTED: ('m i l l s', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+m i l l
+	SELECTED: ('m i l l', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+l e s
+	SELECTED: ('l', 'e s'), score: 2440, other:10
+	OTHER:
+		('l e s', None), score: 20
+
+l e
+	SELECTED: ('l', 'e'), score: 2845, other:10
+	OTHER:
+		('l e', None), score: 20
+
+l a n d s
+	SELECTED: ('l a n d', 's'), score: 11390, other:10
+	OTHER:
+		('l a n d s', None), score: 20
+
+i a n
+	SELECTED: ('i a n', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+i a g e
+	SELECTED: ('i', 'a g e'), score: 111, other:10
+	OTHER:
+		('i a g e', None), score: 20
+
+h o o d
+	SELECTED: ('h o o d', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+g r a p h s
+	SELECTED: ('g r a p h s', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+g r a p h
+	SELECTED: ('g r a p h', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+f l y
+	SELECTED: ('f', 'l y'), score: 1209, other:10
+	OTHER:
+		('f l y', None), score: 20
+
+e t t e
+	SELECTED: ('e t', 't e'), score: 107, other:10
+	OTHER:
+		('e t t e', None), score: 20
+
+e r l y
+	SELECTED: ('e r', 'l y'), score: 2330, other:10
+	OTHER:
+		('e r l y', None), score: 20
+
+e e r s
+	SELECTED: ('e', 'e r s'), score: 2855, other:10
+	OTHER:
+		('e e r s', None), score: 20
+		('e e r s', None), score: 20
+		('e e', 'r s'), score: 37
+
+e e r
+	SELECTED: ('e', 'e r'), score: 2865, other:10
+	OTHER:
+		('e e r', None), score: 20
+		('e e r', None), score: 20
+		('e e', 'r'), score: 203
+
+c t i o n
+	SELECTED: ('c t i o n', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+c l o t h
+	SELECTED: ('c l o t h', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+b e r s
+	SELECTED: ('b e r', 's'), score: 11400, other:10
+	OTHER:
+		('b e r s', None), score: 20
+
+b a g s
+	SELECTED: ('b a g s', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+b a g
+	SELECTED: ('b a g', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+a n t l y
+	SELECTED: ('a n t', 'l y'), score: 1229, other:10
+	OTHER:
+		('a n t l y', None), score: 20
+
+a d e
+	SELECTED: ('a d e', None), score: 10, other:NO PARSING AVAILABLE
+	OTHER:
+
+y a r d s
+	SELECTED: ('y a r d s', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+y a r d
+	SELECTED: ('y a r d', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+v e d
+	SELECTED: ('v e', 'd'), score: 316, other:9
+	OTHER:
+		('v e d', None), score: 18
+
+u d e
+	SELECTED: ('u d e', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+t o r s
+	SELECTED: ('t o r', 's'), score: 11409, other:9
+	OTHER:
+		('t o r s', None), score: 18
+		('t', 'o r s'), score: 776
+		('t o r s', None), score: 18
+		('t', 'o r s'), score: 776
+
+t i e s t
+	SELECTED: ('t i e s', 't'), score: 776, other:9
+	OTHER:
+		('t i e s t', None), score: 18
+		('t', 'i e s t'), score: 776
+		('t i e s t', None), score: 18
+		('t', 'i e s t'), score: 776
+
+t i e r
+	SELECTED: ('t', 'i e r'), score: 785, other:9
+	OTHER:
+		('t i e r', None), score: 18
+
+n e r
+	SELECTED: ('n', 'e r'), score: 2349, other:9
+	OTHER:
+		('n e r', None), score: 18
+
+m a s t e r s
+	SELECTED: ('m a s t e r s', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+m a s t e r
+	SELECTED: ('m a s t e r', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+l e t s
+	SELECTED: ('l', 'e t s'), score: 201, other:9
+	OTHER:
+		('l e t s', None), score: 18
+		('l e t s', None), score: 18
+		('l e', 't s'), score: 139
+
+l e t
+	SELECTED: ('l e', 't'), score: 794, other:9
+	OTHER:
+		('l e t', None), score: 18
+		('l', 'e t'), score: 210
+		('l e t', None), score: 18
+		('l', 'e t'), score: 210
+
+k e s
+	SELECTED: ('k', 'e s'), score: 2449, other:9
+	OTHER:
+		('k e s', None), score: 18
+
+k e
+	SELECTED: ('k', 'e'), score: 2874, other:9
+	OTHER:
+		('k e', None), score: 18
+
+i o u s n e s s
+	SELECTED: ('i o u s', 'n e s s'), score: 455, other:9
+	OTHER:
+		('i o u s n e s s', None), score: 18
+		('i', 'o u s n e s s'), score: 120
+		('i o u s n e s s', None), score: 18
+		('i', 'o u s n e s s'), score: 120
+
+i o n i s t s
+	SELECTED: ('i o n', 'i s t s'), score: 348, other:9
+	OTHER:
+		('i o n i s t s', None), score: 18
+
+i o n i s t
+	SELECTED: ('i o n', 'i s t'), score: 357, other:9
+	OTHER:
+		('i o n i s t', None), score: 18
+
+i o n i s m
+	SELECTED: ('i o n', 'i s m'), score: 366, other:9
+	OTHER:
+		('i o n i s m', None), score: 18
+
+i n k
+	SELECTED: ('i n', 'k'), score: 142, other:9
+	OTHER:
+		('i n k', None), score: 18
+
+i a g e s
+	SELECTED: ('i a g e', 's'), score: 11418, other:9
+	OTHER:
+		('i a g e s', None), score: 18
+		('i', 'a g e s'), score: 120
+		('i a g e s', None), score: 18
+		('i', 'a g e s'), score: 120
+
+h o r s e s
+	SELECTED: ('h o r s e s', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+h o r s e
+	SELECTED: ('h o r s e', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+h e a r t e d n e s s
+	SELECTED: ('h e a r t e d', 'n e s s'), score: 464, other:9
+	OTHER:
+		('h e a r t e d n e s s', None), score: 18
+
+h e a r t e d l y
+	SELECTED: ('h e a r t e d', 'l y'), score: 1238, other:9
+	OTHER:
+		('h e a r t e d l y', None), score: 18
+
+g u n s
+	SELECTED: ('g u n s', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+g u n
+	SELECTED: ('g u n', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+f l i e s
+	SELECTED: ('f l i e s', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+e t t e s
+	SELECTED: ('e t t e', 's'), score: 11427, other:9
+	OTHER:
+		('e t t e s', None), score: 18
+		('e t', 't e s'), score: 49
+		('e t t e s', None), score: 18
+		('e t', 't e s'), score: 49
+
+e s o m e
+	SELECTED: ('e', 's o m e'), score: 2883, other:9
+	OTHER:
+		('e s o m e', None), score: 18
+
+e n t l y
+	SELECTED: ('e n t', 'l y'), score: 1247, other:9
+	OTHER:
+		('e n t l y', None), score: 18
+		('e n', 't l y'), score: 293
+		('e n t l y', None), score: 18
+		('e n', 't l y'), score: 293
+
+e d n e s s
+	SELECTED: ('e d', 'n e s s'), score: 4034, other:9
+	OTHER:
+		('e d n e s s', None), score: 18
+
+e b o o k s
+	SELECTED: ('e', 'b o o k s'), score: 2892, other:9
+	OTHER:
+		('e b o o k s', None), score: 18
+
+e b o o k
+	SELECTED: ('e', 'b o o k'), score: 2901, other:9
+	OTHER:
+		('e b o o k', None), score: 18
+
+c t s
+	SELECTED: ('c t s', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+c t i n g
+	SELECTED: ('c t i n g', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+c t e d
+	SELECTED: ('c t e d', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+c t
+	SELECTED: ('c t', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+c a k e s
+	SELECTED: ('c a k e', 's'), score: 11436, other:9
+	OTHER:
+		('c a k e s', None), score: 18
+
+c
+	SELECTED: ('c', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+b o n e
+	SELECTED: ('b o n e', None), score: 9, other:NO PARSING AVAILABLE
+	OTHER:
+
+b e d s
+	SELECTED: ('b e d', 's'), score: 11445, other:9
+	OTHER:
+		('b e d s', None), score: 18
+
+a t i c a l l y
+	SELECTED: ('a t i c', 'a l l y'), score: 155, other:9
+	OTHER:
+		('a t i c a l l y', None), score: 18
+		('a', 't i c a l l y'), score: 86
+		('a t i c a l l y', None), score: 18
+		('a', 't i c a l l y'), score: 86
+
+v i n g
+	SELECTED: ('v i n g', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+u m
+	SELECTED: ('u m', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+u a l i t y
+	SELECTED: ('u a l', 'i t y'), score: 198, other:8
+	OTHER:
+		('u a l i t y', None), score: 16
+
+s t a n d s
+	SELECTED: ('s t a n d s', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+s t a n d
+	SELECTED: ('s t a n d', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+s i d e
+	SELECTED: ('s i d e', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+s h o p s
+	SELECTED: ('s h o p s', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+s h o p
+	SELECTED: ('s h o p', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+r e s s e s
+	SELECTED: ('r', 'e s s e s'), score: 201, other:8
+	OTHER:
+		('r e s s e s', None), score: 16
+
+r e s s
+	SELECTED: ('r', 'e s s'), score: 209, other:8
+	OTHER:
+		('r e s s', None), score: 16
+
+p y
+	SELECTED: ('p y', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+p o l e s
+	SELECTED: ('p o l e s', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+p o l e
+	SELECTED: ('p o l e', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+p l a t e
+	SELECTED: ('p l a t e', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+p i t s
+	SELECTED: ('p i t s', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+p i t
+	SELECTED: ('p i t', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+p i n s
+	SELECTED: ('p i n s', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+o u s e
+	SELECTED: ('o u s', 'e'), score: 2909, other:8
+	OTHER:
+		('o u s e', None), score: 16
+
+o r y
+	SELECTED: ('o r', 'y'), score: 1206, other:8
+	OTHER:
+		('o r y', None), score: 16
+		('o r y', None), score: 16
+		('o', 'r y'), score: 54
+
+m o s t
+	SELECTED: ('m o s t', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+l l y
+	SELECTED: ('l', 'l y'), score: 1255, other:8
+	OTHER:
+		('l l y', None), score: 16
+
+l i s t s
+	SELECTED: ('l', 'i s t s'), score: 217, other:8
+	OTHER:
+		('l i s t s', None), score: 16
+
+l i s t
+	SELECTED: ('l', 'i s t'), score: 225, other:8
+	OTHER:
+		('l i s t', None), score: 16
+
+j a c k e t s
+	SELECTED: ('j a c k e t s', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+j a c k e t
+	SELECTED: ('j a c k e t', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+i v e s
+	SELECTED: ('i v e', 's'), score: 11453, other:8
+	OTHER:
+		('i v e s', None), score: 16
+		('i v e s', None), score: 16
+		('i', 'v e s'), score: 119
+
+i t e
+	SELECTED: ('i', 't e'), score: 119, other:8
+	OTHER:
+		('i t e', None), score: 16
+
+i a l s
+	SELECTED: ('i a l', 's'), score: 11461, other:8
+	OTHER:
+		('i a l s', None), score: 16
+		('i', 'a l s'), score: 127
+		('i a l s', None), score: 16
+		('i', 'a l s'), score: 127
+
+i a b l e
+	SELECTED: ('i', 'a b l e'), score: 216, other:8
+	OTHER:
+		('i a b l e', None), score: 16
+
+g i r l s
+	SELECTED: ('g i r l s', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+g i r l
+	SELECTED: ('g i r l', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+e o u s n e s s
+	SELECTED: ('e', 'o u s n e s s'), score: 2917, other:8
+	OTHER:
+		('e o u s n e s s', None), score: 16
+		('e o u s n e s s', None), score: 16
+		('e o u s', 'n e s s'), score: 481
+
+c t i v e
+	SELECTED: ('c t', 'i v e'), score: 127, other:8
+	OTHER:
+		('c t i v e', None), score: 16
+
+c t i o n s
+	SELECTED: ('c t i o n', 's'), score: 11469, other:8
+	OTHER:
+		('c t i o n s', None), score: 16
+		('c t i o n s', None), score: 16
+		('c t', 'i o n s'), score: 133
+		('c t i o n s', None), score: 16
+		('c t', 'i o n s'), score: 133
+		('c', 't i o n s'), score: 21
+
+c i n g
+	SELECTED: ('c', 'i n g'), score: 3978, other:8
+	OTHER:
+		('c i n g', None), score: 16
+
+c e d
+	SELECTED: ('c', 'e d'), score: 4042, other:8
+	OTHER:
+		('c e d', None), score: 16
+		('c e', 'd'), score: 324
+		('c e d', None), score: 16
+		('c e', 'd'), score: 324
+
+c a r s
+	SELECTED: ('c a r s', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+c a r
+	SELECTED: ('c', 'a r'), score: 44, other:8
+	OTHER:
+		('c a r', None), score: 16
+
+c a p s
+	SELECTED: ('c a p s', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+c a p
+	SELECTED: ('c a p', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+b o n e s
+	SELECTED: ('b o n e', 's'), score: 11477, other:8
+	OTHER:
+		('b o n e s', None), score: 16
+
+b l y
+	SELECTED: ('b l y', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+b a r s
+	SELECTED: ('b a r s', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+b a r
+	SELECTED: ('b a r', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+b a n d s
+	SELECTED: ('b a n d s', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+b a n d
+	SELECTED: ('b a n d', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+b a c k e d
+	SELECTED: ('b a c k', 'e d'), score: 4050, other:8
+	OTHER:
+		('b a c k e d', None), score: 16
+
+a t e l y
+	SELECTED: ('a t e', 'l y'), score: 1263, other:8
+	OTHER:
+		('a t e l y', None), score: 16
+		('a t e l y', None), score: 16
+		('a', 't e l y'), score: 85
+
+a n c y
+	SELECTED: ('a n c y', None), score: 8, other:NO PARSING AVAILABLE
+	OTHER:
+
+a d e s
+	SELECTED: ('a d e', 's'), score: 11485, other:8
+	OTHER:
+		('a d e s', None), score: 16
+
+w a t e r
+	SELECTED: ('w a t e r', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+t u r e
+	SELECTED: ('t', 'u r e'), score: 801, other:7
+	OTHER:
+		('t u r e', None), score: 14
+
+t t i n g
+	SELECTED: ('t', 't i n g'), score: 808, other:7
+	OTHER:
+		('t t i n g', None), score: 14
+
+t i m e s
+	SELECTED: ('t i m e', 's'), score: 11492, other:7
+	OTHER:
+		('t i m e s', None), score: 14
+
+t i c a l
+	SELECTED: ('t', 'i c a l'), score: 815, other:7
+	OTHER:
+		('t i c a l', None), score: 14
+		('t i c a l', None), score: 14
+		('t i c', 'a l'), score: 271
+
+t i a l
+	SELECTED: ('t', 'i a l'), score: 822, other:7
+	OTHER:
+		('t i a l', None), score: 14
+
+t a i l s
+	SELECTED: ('t a i l s', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+t a b l e s
+	SELECTED: ('t a b l e', 's'), score: 11499, other:7
+	OTHER:
+		('t a b l e s', None), score: 14
+
+s t o r m s
+	SELECTED: ('s t o r m s', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+s t o r m
+	SELECTED: ('s t o r m', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+s e t
+	SELECTED: ('s', 'e t'), score: 11506, other:7
+	OTHER:
+		('s e t', None), score: 14
+		('s e t', None), score: 14
+		('s e', 't'), score: 829
+
+r e n
+	SELECTED: ('r', 'e n'), score: 291, other:7
+	OTHER:
+		('r e n', None), score: 14
+
+p l a c e
+	SELECTED: ('p l a c e', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+p i p e s
+	SELECTED: ('p i p e s', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+p i p e
+	SELECTED: ('p i p e', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+p i n
+	SELECTED: ('p i n', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+p i e c e s
+	SELECTED: ('p i e c e s', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+p i e c e
+	SELECTED: ('p i e c e', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+p a p e r
+	SELECTED: ('p a p e r', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+n o s e d
+	SELECTED: ('n o s e d', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+n e r s
+	SELECTED: ('n e r', 's'), score: 11513, other:7
+	OTHER:
+		('n e r s', None), score: 14
+		('n', 'e r s'), score: 988
+		('n e r s', None), score: 14
+		('n', 'e r s'), score: 988
+
+m e r
+	SELECTED: ('m e r', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+l a m p s
+	SELECTED: ('l a m p s', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+l a m p
+	SELECTED: ('l a m p', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+k n i v e s
+	SELECTED: ('k n i v e s', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+k n i f e
+	SELECTED: ('k n i f e', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+i v i t y
+	SELECTED: ('i v i t y', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+i o n a b l e
+	SELECTED: ('i o n', 'a b l e'), score: 373, other:7
+	OTHER:
+		('i o n a b l e', None), score: 14
+
+i n k s
+	SELECTED: ('i n k', 's'), score: 11520, other:7
+	OTHER:
+		('i n k s', None), score: 14
+		('i n', 'k s'), score: 32
+		('i n k s', None), score: 14
+		('i n', 'k s'), score: 32
+
+i n a t i o n
+	SELECTED: ('i n', 'a t i o n'), score: 271, other:7
+	OTHER:
+		('i n a t i o n', None), score: 14
+
+i n a t i n g
+	SELECTED: ('i n', 'a t i n g'), score: 61, other:7
+	OTHER:
+		('i n a t i n g', None), score: 14
+
+i n a t e s
+	SELECTED: ('i n', 'a t e s'), score: 70, other:7
+	OTHER:
+		('i n a t e s', None), score: 14
+
+i n a t e d
+	SELECTED: ('i n', 'a t e d'), score: 64, other:7
+	OTHER:
+		('i n a t e d', None), score: 14
+
+i n a t e
+	SELECTED: ('i n', 'a t e'), score: 210, other:7
+	OTHER:
+		('i n a t e', None), score: 14
+
+i c s
+	SELECTED: ('i c', 's'), score: 11527, other:7
+	OTHER:
+		('i c s', None), score: 14
+
+i a n s
+	SELECTED: ('i a n', 's'), score: 11534, other:7
+	OTHER:
+		('i a n s', None), score: 14
+
+h a n d e d
+	SELECTED: ('h a n d e d', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+h a n d
+	SELECTED: ('h a n d', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+g y
+	SELECTED: ('g', 'y'), score: 1213, other:7
+	OTHER:
+		('g y', None), score: 14
+
+g l a s s e s
+	SELECTED: ('g l a s s e s', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+f l o w e r s
+	SELECTED: ('f l o w e r s', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+f l o w e r
+	SELECTED: ('f l o w e r', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+f i e l d s
+	SELECTED: ('f i e l d s', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+f i e l d
+	SELECTED: ('f i e l d', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+f a c e d
+	SELECTED: ('f a c e d', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+f a c e
+	SELECTED: ('f a c e', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+e w
+	SELECTED: ('e w', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+e v e r
+	SELECTED: ('e v e r', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+e r n
+	SELECTED: ('e r', 'n'), score: 2356, other:7
+	OTHER:
+		('e r n', None), score: 14
+
+e b o a r d
+	SELECTED: ('e', 'b o a r d'), score: 2924, other:7
+	OTHER:
+		('e b o a r d', None), score: 14
+
+d l y
+	SELECTED: ('d', 'l y'), score: 1270, other:7
+	OTHER:
+		('d l y', None), score: 14
+
+c u t
+	SELECTED: ('c u t', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+c o a t s
+	SELECTED: ('c o a t s', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+c o a t
+	SELECTED: ('c o a t', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+c h a i r s
+	SELECTED: ('c h a i r s', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+c h a i r
+	SELECTED: ('c h a i r', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+c a s e s
+	SELECTED: ('c a s e s', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+c a s e
+	SELECTED: ('c a s e', None), score: 7, other:NO PARSING AVAILABLE
+	OTHER:
+
+a y
+	SELECTED: ('a', 'y'), score: 1220, other:7
+	OTHER:
+		('a y', None), score: 14
+
+a t o r s
+	SELECTED: ('a', 't o r s'), score: 91, other:7
+	OTHER:
+		('a t o r s', None), score: 14
+
+a t o r
+	SELECTED: ('a', 't o r'), score: 98, other:7
+	OTHER:
+		('a t o r', None), score: 14
+
+y m e n
+	SELECTED: ('y', 'm e n'), score: 1226, other:6
+	OTHER:
+		('y m e n', None), score: 12
+
+y m a n
+	SELECTED: ('y', 'm a n'), score: 1232, other:6
+	OTHER:
+		('y m a n', None), score: 12
+
+w i s e
+	SELECTED: ('w i s e', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+w a r d s
+	SELECTED: ('w a r d s', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+w a r d
+	SELECTED: ('w a r d', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+t o
+	SELECTED: ('t', 'o'), score: 828, other:6
+	OTHER:
+		('t o', None), score: 12
+
+t i v e
+	SELECTED: ('t', 'i v e'), score: 834, other:6
+	OTHER:
+		('t i v e', None), score: 12
+
+t i s t s
+	SELECTED: ('t', 'i s t s'), score: 840, other:6
+	OTHER:
+		('t i s t s', None), score: 12
+
+t i s t
+	SELECTED: ('t', 'i s t'), score: 846, other:6
+	OTHER:
+		('t i s t', None), score: 12
+
+t i o u s l y
+	SELECTED: ('t', 'i o u s l y'), score: 852, other:6
+	OTHER:
+		('t i o u s l y', None), score: 12
+
+t i o u s
+	SELECTED: ('t', 'i o u s'), score: 858, other:6
+	OTHER:
+		('t i o u s', None), score: 12
+
+t i d e
+	SELECTED: ('t i d e', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+t i a l l y
+	SELECTED: ('t i a l', 'l y'), score: 1276, other:6
+	OTHER:
+		('t i a l l y', None), score: 12
+		('t', 'i a l l y'), score: 864
+		('t i a l l y', None), score: 12
+		('t', 'i a l l y'), score: 864
+
+t a l
+	SELECTED: ('t', 'a l'), score: 864, other:6
+	OTHER:
+		('t a l', None), score: 12
+
+t a i l
+	SELECTED: ('t a i l', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+s w o m e n
+	SELECTED: ('s', 'w o m e n'), score: 11540, other:6
+	OTHER:
+		('s w o m e n', None), score: 12
+
+s w o m a n
+	SELECTED: ('s', 'w o m a n'), score: 11546, other:6
+	OTHER:
+		('s w o m a n', None), score: 12
+
+s t s
+	SELECTED: ('s t', 's'), score: 11552, other:6
+	OTHER:
+		('s t s', None), score: 12
+		('s', 't s'), score: 11552
+		('s t s', None), score: 12
+		('s', 't s'), score: 11552
+
+s o n g
+	SELECTED: ('s o n g', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+s i g h t e d
+	SELECTED: ('s i g h t e d', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+s i d e s
+	SELECTED: ('s i d e', 's'), score: 11558, other:6
+	OTHER:
+		('s i d e s', None), score: 12
+
+s h e l l s
+	SELECTED: ('s h e l l s', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+s h e l l
+	SELECTED: ('s h e l l', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+s f u l
+	SELECTED: ('s', 'f u l'), score: 11564, other:6
+	OTHER:
+		('s f u l', None), score: 12
+
+r o d s
+	SELECTED: ('r o d s', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+r o d
+	SELECTED: ('r o d', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+p i e s t
+	SELECTED: ('p i e s t', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+p i e r
+	SELECTED: ('p i e r', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+o v e r
+	SELECTED: ('o v e r', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+o n s
+	SELECTED: ('o n', 's'), score: 11570, other:6
+	OTHER:
+		('o n s', None), score: 12
+		('o n s', None), score: 12
+		('o', 'n s'), score: 36
+
+o l o g y
+	SELECTED: ('o l o g y', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+m y
+	SELECTED: ('m y', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+m i n d e d n e s s
+	SELECTED: ('m i n d e d', 'n e s s'), score: 479, other:6
+	OTHER:
+		('m i n d e d n e s s', None), score: 12
+
+m a r k s
+	SELECTED: ('m a r k s', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+m a r k
+	SELECTED: ('m a r k', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+m a k e r s
+	SELECTED: ('m a k e r s', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+m a k e r
+	SELECTED: ('m a k e r', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+l o c k
+	SELECTED: ('l o c k', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+k e y
+	SELECTED: ('k e', 'y'), score: 1238, other:6
+	OTHER:
+		('k e y', None), score: 12
+		('k', 'e y'), score: 148
+		('k e y', None), score: 12
+		('k', 'e y'), score: 148
+
+j a c k
+	SELECTED: ('j a c k', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+i o n a b l y
+	SELECTED: ('i o n', 'a b l y'), score: 379, other:6
+	OTHER:
+		('i o n a b l y', None), score: 12
+
+g i e s t
+	SELECTED: ('g', 'i e s t'), score: 441, other:6
+	OTHER:
+		('g i e s t', None), score: 12
+
+g i e r
+	SELECTED: ('g', 'i e r'), score: 513, other:6
+	OTHER:
+		('g i e r', None), score: 12
+
+g e s
+	SELECTED: ('g', 'e s'), score: 2455, other:6
+	OTHER:
+		('g e s', None), score: 12
+
+f y
+	SELECTED: ('f', 'y'), score: 1244, other:6
+	OTHER:
+		('f y', None), score: 12
+
+f o r m i t y
+	SELECTED: ('f o r m i t y', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+f o o t e d
+	SELECTED: ('f o o t e d', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+f a l l
+	SELECTED: ('f a l l', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+f a c e s
+	SELECTED: ('f a c e', 's'), score: 11576, other:6
+	OTHER:
+		('f a c e s', None), score: 12
+
+e w o r k
+	SELECTED: ('e', 'w o r k'), score: 2930, other:6
+	OTHER:
+		('e w o r k', None), score: 12
+
+e n c e s
+	SELECTED: ('e n c e', 's'), score: 11582, other:6
+	OTHER:
+		('e n c e s', None), score: 12
+		('e n', 'c e s'), score: 297
+		('e n c e s', None), score: 12
+		('e n', 'c e s'), score: 297
+
+e m i n d e d
+	SELECTED: ('e', 'm i n d e d'), score: 2936, other:6
+	OTHER:
+		('e m i n d e d', None), score: 12
+
+e a b l y
+	SELECTED: ('e', 'a b l y'), score: 2942, other:6
+	OTHER:
+		('e a b l y', None), score: 12
+
+d r o p s
+	SELECTED: ('d r o p s', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+d r o p
+	SELECTED: ('d r o p', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+d r i e d
+	SELECTED: ('d r i e d', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+d o g s
+	SELECTED: ('d o g s', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+d o g
+	SELECTED: ('d o g', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+d e n
+	SELECTED: ('d', 'e n'), score: 329, other:6
+	OTHER:
+		('d e n', None), score: 12
+
+c u p s
+	SELECTED: ('c', 'u p s'), score: 39, other:6
+	OTHER:
+		('c u p s', None), score: 12
+
+c u p
+	SELECTED: ('c', 'u p'), score: 45, other:6
+	OTHER:
+		('c u p', None), score: 12
+
+c t i v e l y
+	SELECTED: ('c t i v e', 'l y'), score: 1282, other:6
+	OTHER:
+		('c t i v e l y', None), score: 12
+		('c t', 'i v e l y'), score: 43
+		('c t i v e l y', None), score: 12
+		('c t', 'i v e l y'), score: 43
+
+b i r d s
+	SELECTED: ('b i r d s', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+b i r d
+	SELECTED: ('b i r d', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+b e r r y
+	SELECTED: ('b e r', 'r y'), score: 52, other:6
+	OTHER:
+		('b e r r y', None), score: 12
+
+b e r r i e s
+	SELECTED: ('b e r', 'r i e s'), score: 35, other:6
+	OTHER:
+		('b e r r i e s', None), score: 12
+
+b e a r e r s
+	SELECTED: ('b e a r e r s', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+b e a r e r
+	SELECTED: ('b e a r e r', None), score: 6, other:NO PARSING AVAILABLE
+	OTHER:
+
+a r s
+	SELECTED: ('a r', 's'), score: 11588, other:6
+	OTHER:
+		('a r s', None), score: 12
+		('a', 'r s'), score: 104
+		('a r s', None), score: 12
+		('a', 'r s'), score: 104
+
+a l i t y
+	SELECTED: ('a l', 'i t y'), score: 276, other:6
+	OTHER:
+		('a l i t y', None), score: 12
+
+a b l e n e s s
+	SELECTED: ('a b l e', 'n e s s'), score: 485, other:6
+	OTHER:
+		('a b l e n e s s', None), score: 12
+
+y m e n t
+	SELECTED: ('y', 'm e n t'), score: 1249, other:5
+	OTHER:
+		('y m e n t', None), score: 10
+		('y m e n t', None), score: 10
+		('y m e n', 't'), score: 869
+
+w o r m s
+	SELECTED: ('w o r m s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+w o r m
+	SELECTED: ('w o r m', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+w o o d s
+	SELECTED: ('w o o d', 's'), score: 11593, other:5
+	OTHER:
+		('w o o d s', None), score: 10
+
+w i t t e d
+	SELECTED: ('w i t t e d', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+w i n g s
+	SELECTED: ('w i n g s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+w i n g
+	SELECTED: ('w i n g', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+w a r e
+	SELECTED: ('w a r e', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+v a b l e
+	SELECTED: ('v a b l e', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+u r e d
+	SELECTED: ('u r', 'e d'), score: 4055, other:5
+	OTHER:
+		('u r e d', None), score: 10
+		('u r e', 'd'), score: 334
+		('u r e d', None), score: 10
+		('u r e', 'd'), score: 334
+
+u o u s
+	SELECTED: ('u o u s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+u a l s
+	SELECTED: ('u a l', 's'), score: 11598, other:5
+	OTHER:
+		('u a l s', None), score: 10
+
+t t e r s
+	SELECTED: ('t', 't e r s'), score: 869, other:5
+	OTHER:
+		('t t e r s', None), score: 10
+
+t t e r
+	SELECTED: ('t', 't e r'), score: 874, other:5
+	OTHER:
+		('t t e r', None), score: 10
+
+t o p s
+	SELECTED: ('t o p s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+t o p
+	SELECTED: ('t o p', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+t o n e
+	SELECTED: ('t o n e', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+t i o u s n e s s
+	SELECTED: ('t', 'i o u s n e s s'), score: 879, other:5
+	OTHER:
+		('t i o u s n e s s', None), score: 10
+		('t i o u s n e s s', None), score: 10
+		('t i o u s', 'n e s s'), score: 490
+
+t i c s
+	SELECTED: ('t i c', 's'), score: 11603, other:5
+	OTHER:
+		('t i c s', None), score: 10
+		('t', 'i c s'), score: 884
+		('t i c s', None), score: 10
+		('t', 'i c s'), score: 884
+
+t h e r a p y
+	SELECTED: ('t h e r a p y', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+t h e r a p i s t s
+	SELECTED: ('t h e r a p i s t s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+t h e r a p i s t
+	SELECTED: ('t h e r a p i s t', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+t e n
+	SELECTED: ('t', 'e n'), score: 884, other:5
+	OTHER:
+		('t e n', None), score: 10
+		('t e n', None), score: 10
+		('t e', 'n'), score: 186
+
+t c h e r s
+	SELECTED: ('t c h e r s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+t c h e r
+	SELECTED: ('t c h e r', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+s p o k e n
+	SELECTED: ('s p o k e n', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+s m i t h s
+	SELECTED: ('s m i t h s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+s m i t h
+	SELECTED: ('s m i t h', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+s m a n s h i p
+	SELECTED: ('s m a n', 's h i p'), score: 58, other:5
+	OTHER:
+		('s m a n s h i p', None), score: 10
+
+s i v e n e s s
+	SELECTED: ('s', 'i v e n e s s'), score: 11608, other:5
+	OTHER:
+		('s i v e n e s s', None), score: 10
+
+s i v e l y
+	SELECTED: ('s', 'i v e l y'), score: 11613, other:5
+	OTHER:
+		('s i v e l y', None), score: 10
+
+s i v e
+	SELECTED: ('s', 'i v e'), score: 11618, other:5
+	OTHER:
+		('s i v e', None), score: 10
+
+s i b l e
+	SELECTED: ('s', 'i b l e'), score: 11623, other:5
+	OTHER:
+		('s i b l e', None), score: 10
+
+s h o t
+	SELECTED: ('s h o t', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+s e r s
+	SELECTED: ('s', 'e r s'), score: 11628, other:5
+	OTHER:
+		('s e r s', None), score: 10
+		('s e r s', None), score: 10
+		('s e', 'r s'), score: 32
+
+s e r
+	SELECTED: ('s', 'e r'), score: 11633, other:5
+	OTHER:
+		('s e r', None), score: 10
+		('s e r', None), score: 10
+		('s e', 'r'), score: 221
+
+s e q u e n t l y
+	SELECTED: ('s e q u e n t l y', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+s e q u e n t
+	SELECTED: ('s e q u e n t', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+s e l f
+	SELECTED: ('s e l f', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+s a w
+	SELECTED: ('s a w', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+r o a d
+	SELECTED: ('r o a d', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+r i n g s
+	SELECTED: ('r i n g', 's'), score: 11638, other:5
+	OTHER:
+		('r i n g s', None), score: 10
+		('r', 'i n g s'), score: 221
+		('r i n g s', None), score: 10
+		('r', 'i n g s'), score: 221
+
+r e a d e r s
+	SELECTED: ('r e a d e r s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+r e a d e r
+	SELECTED: ('r e a d e r', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+p l a t e s
+	SELECTED: ('p l a t e', 's'), score: 11643, other:5
+	OTHER:
+		('p l a t e s', None), score: 10
+
+p l a c e s
+	SELECTED: ('p l a c e', 's'), score: 11648, other:5
+	OTHER:
+		('p l a c e s', None), score: 10
+
+p i n e s s
+	SELECTED: ('p i n', 'e s s'), score: 71, other:5
+	OTHER:
+		('p i n e s s', None), score: 10
+
+p h o n i c
+	SELECTED: ('p h o n i c', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+p e n n y
+	SELECTED: ('p e n n y', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+p a n s
+	SELECTED: ('p a n s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+p a n
+	SELECTED: ('p a n', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+o v e r s
+	SELECTED: ('o v e r', 's'), score: 11653, other:5
+	OTHER:
+		('o v e r s', None), score: 10
+
+o u g h t
+	SELECTED: ('o u g h t', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+n y
+	SELECTED: ('n', 'y'), score: 1254, other:5
+	OTHER:
+		('n y', None), score: 10
+
+n g
+	SELECTED: ('n', 'g'), score: 237, other:5
+	OTHER:
+		('n g', None), score: 10
+
+n e t s
+	SELECTED: ('n', 'e t s'), score: 196, other:5
+	OTHER:
+		('n e t s', None), score: 10
+
+n e t
+	SELECTED: ('n', 'e t'), score: 201, other:5
+	OTHER:
+		('n e t', None), score: 10
+
+n e s s e s
+	SELECTED: ('n e s s', 'e s'), score: 2460, other:5
+	OTHER:
+		('n e s s e s', None), score: 10
+		('n e s s e s', None), score: 10
+		('n', 'e s s e s'), score: 206
+
+n e n t
+	SELECTED: ('n', 'e n t'), score: 206, other:5
+	OTHER:
+		('n e n t', None), score: 10
+
+n a i l
+	SELECTED: ('n a i l', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+n ' t
+	SELECTED: ('n', "' t"), score: 211, other:5
+	OTHER:
+		("n ' t", None), score: 10
+
+m o n g e r s
+	SELECTED: ('m o n g e r s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+m o n g e r
+	SELECTED: ('m o n g e r', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+m a t e s
+	SELECTED: ('m a t e s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+m a t e
+	SELECTED: ('m a t e', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+m a k i n g
+	SELECTED: ('m a k i n g', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+m a c h i n e s
+	SELECTED: ('m a c h i n e s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+m a c h i n e
+	SELECTED: ('m a c h i n e', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+l o c k s
+	SELECTED: ('l o c k', 's'), score: 11658, other:5
+	OTHER:
+		('l o c k s', None), score: 10
+
+l l e d
+	SELECTED: ('l', 'l e d'), score: 230, other:5
+	OTHER:
+		('l l e d', None), score: 10
+
+k e y s
+	SELECTED: ('k e y', 's'), score: 11663, other:5
+	OTHER:
+		('k e y s', None), score: 10
+		('k e', 'y s'), score: 31
+		('k e y s', None), score: 10
+		('k e', 'y s'), score: 31
+
+i t u d e
+	SELECTED: ('i t u d e', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+i r o n
+	SELECTED: ('i r o n', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+i o n e r s
+	SELECTED: ('i o n', 'e r s'), score: 991, other:5
+	OTHER:
+		('i o n e r s', None), score: 10
+
+i o n e r
+	SELECTED: ('i o n', 'e r'), score: 2366, other:5
+	OTHER:
+		('i o n e r', None), score: 10
+
+i o n a l
+	SELECTED: ('i o n', 'a l'), score: 394, other:5
+	OTHER:
+		('i o n a l', None), score: 10
+
+i n k i n g
+	SELECTED: ('i n k', 'i n g'), score: 3983, other:5
+	OTHER:
+		('i n k i n g', None), score: 10
+		('i n', 'k i n g'), score: 60
+		('i n k i n g', None), score: 10
+		('i n', 'k i n g'), score: 60
+
+i g i b l e
+	SELECTED: ('i g i b l e', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+i e t y
+	SELECTED: ('i e', 't y'), score: 31, other:5
+	OTHER:
+		('i e t y', None), score: 10
+
+i c a l s
+	SELECTED: ('i c a l', 's'), score: 11668, other:5
+	OTHER:
+		('i c a l s', None), score: 10
+		('i c', 'a l s'), score: 295
+		('i c a l s', None), score: 10
+		('i c', 'a l s'), score: 295
+
+i a b l y
+	SELECTED: ('i', 'a b l y'), score: 132, other:5
+	OTHER:
+		('i a b l y', None), score: 10
+
+h a n g e r s
+	SELECTED: ('h a n g e r s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+h a n g e r
+	SELECTED: ('h a n g e r', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+h
+	SELECTED: ('h', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+g r o u n d s
+	SELECTED: ('g r o u n d s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+g r o u n d
+	SELECTED: ('g r o u n d', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+g r a p h y
+	SELECTED: ('g r a p h', 'y'), score: 1259, other:5
+	OTHER:
+		('g r a p h y', None), score: 10
+
+g r a p h e r s
+	SELECTED: ('g r a p h', 'e r s'), score: 996, other:5
+	OTHER:
+		('g r a p h e r s', None), score: 10
+
+g r a p h e r
+	SELECTED: ('g r a p h', 'e r'), score: 2371, other:5
+	OTHER:
+		('g r a p h e r', None), score: 10
+
+g o e r s
+	SELECTED: ('g o e r s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+g o e r
+	SELECTED: ('g o e r', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+g e r
+	SELECTED: ('g', 'e r'), score: 2376, other:5
+	OTHER:
+		('g e r', None), score: 10
+
+g a s
+	SELECTED: ('g', 'a s'), score: 247, other:5
+	OTHER:
+		('g a s', None), score: 10
+
+g a r d e n s
+	SELECTED: ('g a r d e n s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+g a r d e n
+	SELECTED: ('g a r d e n', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+f o o t
+	SELECTED: ('f o o t', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+f l a s h e s
+	SELECTED: ('f l a s h e s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+f l a s h
+	SELECTED: ('f l a s h', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+f f s
+	SELECTED: ('f', 'f s'), score: 137, other:5
+	OTHER:
+		('f f s', None), score: 10
+
+f f
+	SELECTED: ('f', 'f'), score: 147, other:5
+	OTHER:
+		('f f', None), score: 10
+
+f a l l s
+	SELECTED: ('f a l l', 's'), score: 11673, other:5
+	OTHER:
+		('f a l l s', None), score: 10
+
+e y s
+	SELECTED: ('e y', 's'), score: 11678, other:5
+	OTHER:
+		('e y s', None), score: 10
+		('e', 'y s'), score: 2947
+		('e y s', None), score: 10
+		('e', 'y s'), score: 2947
+
+e w o m e n
+	SELECTED: ('e', 'w o m e n'), score: 2947, other:5
+	OTHER:
+		('e w o m e n', None), score: 10
+
+e w o m a n
+	SELECTED: ('e', 'w o m a n'), score: 2952, other:5
+	OTHER:
+		('e w o m a n', None), score: 10
+
+e s q u e
+	SELECTED: ('e s q u e', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+e r h e a r t e d
+	SELECTED: ('e r', 'h e a r t e d'), score: 2381, other:5
+	OTHER:
+		('e r h e a r t e d', None), score: 10
+
+e n e r s
+	SELECTED: ('e', 'n e r s'), score: 2957, other:5
+	OTHER:
+		('e n e r s', None), score: 10
+		('e n e r s', None), score: 10
+		('e n', 'e r s'), score: 1001
+
+e n e r
+	SELECTED: ('e', 'n e r'), score: 2962, other:5
+	OTHER:
+		('e n e r', None), score: 10
+		('e n e r', None), score: 10
+		('e n', 'e r'), score: 2386
+
+e n d s
+	SELECTED: ('e n', 'd s'), score: 307, other:5
+	OTHER:
+		('e n d s', None), score: 10
+
+e l i n e s s
+	SELECTED: ('e', 'l i n e s s'), score: 2967, other:5
+	OTHER:
+		('e l i n e s s', None), score: 10
+
+e l i e s t
+	SELECTED: ('e', 'l i e s t'), score: 2972, other:5
+	OTHER:
+		('e l i e s t', None), score: 10
+
+e l i e r
+	SELECTED: ('e', 'l i e r'), score: 2977, other:5
+	OTHER:
+		('e l i e r', None), score: 10
+
+e h e a r t e d
+	SELECTED: ('e', 'h e a r t e d'), score: 2982, other:5
+	OTHER:
+		('e h e a r t e d', None), score: 10
+
+e f u l s
+	SELECTED: ('e f u l', 's'), score: 11683, other:5
+	OTHER:
+		('e f u l s', None), score: 10
+		('e', 'f u l s'), score: 2987
+		('e f u l s', None), score: 10
+		('e', 'f u l s'), score: 2987
+
+d r y i n g
+	SELECTED: ('d r y i n g', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+d r y
+	SELECTED: ('d', 'r y'), score: 334, other:5
+	OTHER:
+		('d r y', None), score: 10
+
+d r i e s
+	SELECTED: ('d', 'r i e s'), score: 339, other:5
+	OTHER:
+		('d r i e s', None), score: 10
+
+d o w n
+	SELECTED: ('d o w n', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+d o m s
+	SELECTED: ('d o m', 's'), score: 11688, other:5
+	OTHER:
+		('d o m s', None), score: 10
+
+c u t s
+	SELECTED: ('c u t', 's'), score: 11693, other:5
+	OTHER:
+		('c u t s', None), score: 10
+
+c s
+	SELECTED: ('c', 's'), score: 11698, other:5
+	OTHER:
+		('c s', None), score: 10
+
+c r a f t
+	SELECTED: ('c r a f t', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+c o c k s
+	SELECTED: ('c o c k s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+c o c k
+	SELECTED: ('c o c k', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+c l o t h s
+	SELECTED: ('c l o t h', 's'), score: 11703, other:5
+	OTHER:
+		('c l o t h s', None), score: 10
+
+c k s
+	SELECTED: ('c', 'k s'), score: 55, other:5
+	OTHER:
+		('c k s', None), score: 10
+
+c k
+	SELECTED: ('c', 'k'), score: 147, other:5
+	OTHER:
+		('c k', None), score: 10
+
+c a t s
+	SELECTED: ('c a t s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+c a t
+	SELECTED: ('c a t', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+b l o o d e d
+	SELECTED: ('b l o o d e d', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+b i e s t
+	SELECTED: ('b i e s t', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+b i e r
+	SELECTED: ('b i e r', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+b e l l s
+	SELECTED: ('b e l l s', None), score: 5, other:NO PARSING AVAILABLE
+	OTHER:
+
+a r i a n s
+	SELECTED: ('a r', 'i a n s'), score: 55, other:5
+	OTHER:
+		('a r i a n s', None), score: 10
+
+a r i a n
+	SELECTED: ('a r', 'i a n'), score: 60, other:5
+	OTHER:
+		('a r i a n', None), score: 10
+
+a l l
+	SELECTED: ('a l', 'l'), score: 286, other:5
+	OTHER:
+		('a l l', None), score: 10
+
+a l i z i n g
+	SELECTED: ('a l', 'i z i n g'), score: 291, other:5
+	OTHER:
+		('a l i z i n g', None), score: 10
+
+a l i z e s
+	SELECTED: ('a l', 'i z e s'), score: 296, other:5
+	OTHER:
+		('a l i z e s', None), score: 10
+
+a l i z e d
+	SELECTED: ('a l', 'i z e d'), score: 301, other:5
+	OTHER:
+		('a l i z e d', None), score: 10
+
+a l i z e
+	SELECTED: ('a l', 'i z e'), score: 306, other:5
+	OTHER:
+		('a l i z e', None), score: 10
+
+a l i s m
+	SELECTED: ('a l', 'i s m'), score: 311, other:5
+	OTHER:
+		('a l i s m', None), score: 10
+
+a i n
+	SELECTED: ('a', 'i n'), score: 103, other:5
+	OTHER:
+		('a i n', None), score: 10
+
+a i c
+	SELECTED: ('a', 'i c'), score: 295, other:5
+	OTHER:
+		('a i c', None), score: 10
+
+a b l e s
+	SELECTED: ('a b l e', 's'), score: 11708, other:5
+	OTHER:
+		('a b l e s', None), score: 10
+
+y m e n t s
+	SELECTED: ('y m e n t', 's'), score: 11712, other:4
+	OTHER:
+		('y m e n t s', None), score: 8
+		('y', 'm e n t s'), score: 1263
+		('y m e n t s', None), score: 8
+		('y', 'm e n t s'), score: 1263
+		('y m e n', 't s'), score: 134
+		('y m e n t s', None), score: 8
+		('y', 'm e n t s'), score: 1263
+		('y m e n', 't s'), score: 134
+
+w o r t h y
+	SELECTED: ('w o r t h y', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+w o r d s
+	SELECTED: ('w o r d s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+w o r d
+	SELECTED: ('w o r d', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+w i r e
+	SELECTED: ('w i r e', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+w h e r e
+	SELECTED: ('w h e r e', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+w h e e l s
+	SELECTED: ('w h e e l s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+w h e e l
+	SELECTED: ('w h e e l', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+w e i g h t s
+	SELECTED: ('w e i g h t s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+w e i g h t
+	SELECTED: ('w e i g h t', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+w e e d
+	SELECTED: ('w e e d', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+w a t c h e s
+	SELECTED: ('w a t c h e s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+w a t c h
+	SELECTED: ('w a t c h', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+w a l k e r s
+	SELECTED: ('w a l k e r s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+w a l k e r
+	SELECTED: ('w a l k e r', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+v e r
+	SELECTED: ('v e', 'r'), score: 220, other:4
+	OTHER:
+		('v e r', None), score: 8
+
+u s l y
+	SELECTED: ('u s', 'l y'), score: 1286, other:4
+	OTHER:
+		('u s l y', None), score: 8
+
+u r s
+	SELECTED: ('u r', 's'), score: 11716, other:4
+	OTHER:
+		('u r s', None), score: 8
+
+u r i n g
+	SELECTED: ('u r', 'i n g'), score: 3987, other:4
+	OTHER:
+		('u r i n g', None), score: 8
+
+u p o n
+	SELECTED: ('u p', 'o n'), score: 38, other:4
+	OTHER:
+		('u p o n', None), score: 8
+
+u o u s l y
+	SELECTED: ('u o u s', 'l y'), score: 1290, other:4
+	OTHER:
+		('u o u s l y', None), score: 8
+
+u l a r
+	SELECTED: ('u l a r', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+t u r e s
+	SELECTED: ('t u r e', 's'), score: 11720, other:4
+	OTHER:
+		('t u r e s', None), score: 8
+		('t', 'u r e s'), score: 888
+		('t u r e s', None), score: 8
+		('t', 'u r e s'), score: 888
+
+t i n e s s
+	SELECTED: ('t', 'i n e s s'), score: 888, other:4
+	OTHER:
+		('t i n e s s', None), score: 8
+
+t i m e r s
+	SELECTED: ('t i m e', 'r s'), score: 31, other:4
+	OTHER:
+		('t i m e r s', None), score: 8
+
+t i m e r
+	SELECTED: ('t i m e', 'r'), score: 224, other:4
+	OTHER:
+		('t i m e r', None), score: 8
+
+t h l y
+	SELECTED: ('t h', 'l y'), score: 1294, other:4
+	OTHER:
+		('t h l y', None), score: 8
+
+t h i n g
+	SELECTED: ('t h', 'i n g'), score: 3991, other:4
+	OTHER:
+		('t h i n g', None), score: 8
+
+t e s t
+	SELECTED: ('t e s', 't'), score: 892, other:4
+	OTHER:
+		('t e s t', None), score: 8
+		('t', 'e s t'), score: 892
+		('t e s t', None), score: 8
+		('t', 'e s t'), score: 892
+		('t e', 's t'), score: 119
+		('t e s t', None), score: 8
+		('t', 'e s t'), score: 892
+		('t e', 's t'), score: 119
+
+t e m p e r e d
+	SELECTED: ('t e m p e r e d', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+t a x e s
+	SELECTED: ('t a x e s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+t a x
+	SELECTED: ('t a x', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+s y
+	SELECTED: ('s', 'y'), score: 11724, other:4
+	OTHER:
+		('s y', None), score: 8
+
+s u i t s
+	SELECTED: ('s u i t s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+s u i t
+	SELECTED: ('s u i t', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+s t u f f
+	SELECTED: ('s t u f f', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+s t r o k e
+	SELECTED: ('s t r o k e', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+s t o o l s
+	SELECTED: ('s t o o l s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+s t o o l
+	SELECTED: ('s t o o l', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+s t e p s
+	SELECTED: ('s t e p s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+s t e p
+	SELECTED: ('s t e p', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+s t a t i o n s
+	SELECTED: ('s t', 'a t i o n s'), score: 111, other:4
+	OTHER:
+		('s t a t i o n s', None), score: 8
+
+s t a t i o n
+	SELECTED: ('s t', 'a t i o n'), score: 275, other:4
+	OTHER:
+		('s t a t i o n', None), score: 8
+
+s t a r s
+	SELECTED: ('s t', 'a r s'), score: 52, other:4
+	OTHER:
+		('s t a r s', None), score: 8
+
+s t a r
+	SELECTED: ('s t', 'a r'), score: 64, other:4
+	OTHER:
+		('s t a r', None), score: 8
+
+s s e s
+	SELECTED: ('s', 's e s'), score: 11728, other:4
+	OTHER:
+		('s s e s', None), score: 8
+		('s s e s', None), score: 8
+		('s s', 'e s'), score: 2464
+
+s o n g s
+	SELECTED: ('s o n g', 's'), score: 11732, other:4
+	OTHER:
+		('s o n g s', None), score: 8
+
+s m
+	SELECTED: ('s m', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+s h o e s
+	SELECTED: ('s h o e s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+s h o e
+	SELECTED: ('s h o e', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+s e t s
+	SELECTED: ('s e t', 's'), score: 11736, other:4
+	OTHER:
+		('s e t s', None), score: 8
+		('s', 'e t s'), score: 11736
+		('s e t s', None), score: 8
+		('s', 'e t s'), score: 11736
+		('s e', 't s'), score: 134
+		('s e t s', None), score: 8
+		('s', 'e t s'), score: 11736
+		('s e', 't s'), score: 134
+
+s e q u e n t i a l l y
+	SELECTED: ('s e q u e n t', 'i a l l y'), score: 18, other:4
+	OTHER:
+		('s e q u e n t i a l l y', None), score: 8
+
+s e q u e n t i a l
+	SELECTED: ('s e q u e n t', 'i a l'), score: 55, other:4
+	OTHER:
+		('s e q u e n t i a l', None), score: 8
+
+s e q u e n c e
+	SELECTED: ('s e q u e n c e', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+s c r e w s
+	SELECTED: ('s c r e w s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+s c r e w
+	SELECTED: ('s c r e w', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+s a w s
+	SELECTED: ('s a w', 's'), score: 11740, other:4
+	OTHER:
+		('s a w s', None), score: 8
+
+r u n s
+	SELECTED: ('r u n s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+r u n
+	SELECTED: ('r u n', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+r o a d s
+	SELECTED: ('r o a d', 's'), score: 11744, other:4
+	OTHER:
+		('r o a d s', None), score: 8
+
+r e a d i n g
+	SELECTED: ('r e a d i n g', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+r a t e
+	SELECTED: ('r', 'a t e'), score: 228, other:4
+	OTHER:
+		('r a t e', None), score: 8
+
+r a i l s
+	SELECTED: ('r a i l s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+r a i l
+	SELECTED: ('r a i l', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+r a c e s
+	SELECTED: ('r a c e s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+r a c e
+	SELECTED: ('r a c e', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+p s
+	SELECTED: ('p s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+p l a n e s
+	SELECTED: ('p l a n e s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+p l a n e
+	SELECTED: ('p l a n e', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+p h o n e s
+	SELECTED: ('p h o n e s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+p h o n e
+	SELECTED: ('p h o n e', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+p e n c e s
+	SELECTED: ('p e n c e s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+p e n c e
+	SELECTED: ('p e n c e', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+p a t h s
+	SELECTED: ('p a t h s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+p a t h
+	SELECTED: ('p a t h', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+p a r t y
+	SELECTED: ('p a r t y', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+p a r t i e s
+	SELECTED: ('p a r t i e s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+p
+	SELECTED: ('p', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+o u t s
+	SELECTED: ('o u t', 's'), score: 11748, other:4
+	OTHER:
+		('o u t s', None), score: 8
+
+o u r
+	SELECTED: ('o', 'u r'), score: 34, other:4
+	OTHER:
+		('o u r', None), score: 8
+
+o r i a l
+	SELECTED: ('o r', 'i a l'), score: 155, other:4
+	OTHER:
+		('o r i a l', None), score: 8
+
+o i l
+	SELECTED: ('o i l', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+o i d
+	SELECTED: ('o', 'i d'), score: 44, other:4
+	OTHER:
+		('o i d', None), score: 8
+
+o f f
+	SELECTED: ('o', 'f f'), score: 42, other:4
+	OTHER:
+		('o f f', None), score: 8
+
+o f
+	SELECTED: ('o', 'f'), score: 151, other:4
+	OTHER:
+		('o f', None), score: 8
+
+n i g h t
+	SELECTED: ('n i g h t', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+n i c
+	SELECTED: ('n', 'i c'), score: 299, other:4
+	OTHER:
+		('n i c', None), score: 8
+
+n e n c e
+	SELECTED: ('n', 'e n c e'), score: 219, other:4
+	OTHER:
+		('n e n c e', None), score: 8
+
+n e c k e d
+	SELECTED: ('n e c k e d', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+n a i l s
+	SELECTED: ('n a i l', 's'), score: 11752, other:4
+	OTHER:
+		('n a i l s', None), score: 8
+
+m s
+	SELECTED: ('m s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+m o r e
+	SELECTED: ('m o r e', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+m o n e y
+	SELECTED: ('m o n e y', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+m i n d e d l y
+	SELECTED: ('m i n d e d', 'l y'), score: 1298, other:4
+	OTHER:
+		('m i n d e d l y', None), score: 8
+
+m i e s t
+	SELECTED: ('m i e s t', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+m i e r
+	SELECTED: ('m i e r', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+m e t e r s
+	SELECTED: ('m e t e r s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+m e t e r
+	SELECTED: ('m e t e r', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+m e r s
+	SELECTED: ('m e r', 's'), score: 11756, other:4
+	OTHER:
+		('m e r s', None), score: 8
+
+m
+	SELECTED: ('m', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+l o n g
+	SELECTED: ('l o n g', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+l o g y
+	SELECTED: ('l o g y', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+l o g i s t s
+	SELECTED: ('l o g i s t s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+l o g i s t
+	SELECTED: ('l o g i s t', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+l o g i e s
+	SELECTED: ('l o g i e s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+l o g i c a l
+	SELECTED: ('l o g i c a l', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+l l i n g
+	SELECTED: ('l', 'l i n g'), score: 239, other:4
+	OTHER:
+		('l l i n g', None), score: 8
+
+l i f e
+	SELECTED: ('l i f e', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+l e a f
+	SELECTED: ('l e a f', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+l a t i o n
+	SELECTED: ('l', 'a t i o n'), score: 279, other:4
+	OTHER:
+		('l a t i o n', None), score: 8
+
+k y
+	SELECTED: ('k', 'y'), score: 1267, other:4
+	OTHER:
+		('k y', None), score: 8
+
+k e e p e r s
+	SELECTED: ('k e e p e r s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+k e e p e r
+	SELECTED: ('k e e p e r', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+j o i n t
+	SELECTED: ('j o i n t', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+j a c k s
+	SELECTED: ('j a c k', 's'), score: 11760, other:4
+	OTHER:
+		('j a c k s', None), score: 8
+
+i z e r s
+	SELECTED: ('i z e', 'r s'), score: 113, other:4
+	OTHER:
+		('i z e r s', None), score: 8
+
+i z e r
+	SELECTED: ('i z e', 'r'), score: 232, other:4
+	OTHER:
+		('i z e r', None), score: 8
+
+i t i o n s
+	SELECTED: ('i', 't i o n s'), score: 136, other:4
+	OTHER:
+		('i t i o n s', None), score: 8
+
+i t i o n
+	SELECTED: ('i', 't i o n'), score: 140, other:4
+	OTHER:
+		('i t i o n', None), score: 8
+
+i t e s
+	SELECTED: ('i t e', 's'), score: 11764, other:4
+	OTHER:
+		('i t e s', None), score: 8
+		('i', 't e s'), score: 144
+		('i t e s', None), score: 8
+		('i', 't e s'), score: 144
+
+i r o n s
+	SELECTED: ('i r o n', 's'), score: 11768, other:4
+	OTHER:
+		('i r o n s', None), score: 8
+
+i n e s
+	SELECTED: ('i n e', 's'), score: 11772, other:4
+	OTHER:
+		('i n e s', None), score: 8
+		('i n e s', None), score: 8
+		('i n', 'e s'), score: 2464
+
+i l e s
+	SELECTED: ('i l e', 's'), score: 11776, other:4
+	OTHER:
+		('i l e s', None), score: 8
+		('i', 'l e s'), score: 144
+		('i l e s', None), score: 8
+		('i', 'l e s'), score: 144
+
+i e t h s
+	SELECTED: ('i e', 't h s'), score: 35, other:4
+	OTHER:
+		('i e t h s', None), score: 8
+
+i e t h
+	SELECTED: ('i e', 't h'), score: 67, other:4
+	OTHER:
+		('i e t h', None), score: 8
+
+i c i d e s
+	SELECTED: ('i c i d e s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+i c i d e
+	SELECTED: ('i c i d e', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+i c a t i o n s
+	SELECTED: ('i c', 'a t i o n s'), score: 303, other:4
+	OTHER:
+		('i c a t i o n s', None), score: 8
+
+i c a t i o n
+	SELECTED: ('i c', 'a t i o n'), score: 307, other:4
+	OTHER:
+		('i c a t i o n', None), score: 8
+
+h o r n s
+	SELECTED: ('h o r n s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+h o r n
+	SELECTED: ('h o r n', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+h o o k s
+	SELECTED: ('h o o k s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+h o o k
+	SELECTED: ('h o o k', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+g u a r d s
+	SELECTED: ('g u a r d s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+g u a r d
+	SELECTED: ('g u a r d', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+g s
+	SELECTED: ('g', 's'), score: 11780, other:4
+	OTHER:
+		('g s', None), score: 8
+
+g r a p h i c
+	SELECTED: ('g r a p h', 'i c'), score: 311, other:4
+	OTHER:
+		('g r a p h i c', None), score: 8
+
+g o i n g
+	SELECTED: ('g o i n g', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+g o
+	SELECTED: ('g', 'o'), score: 255, other:4
+	OTHER:
+		('g o', None), score: 8
+
+g l a s s
+	SELECTED: ('g l a s s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+g e r s
+	SELECTED: ('g e r', 's'), score: 11784, other:4
+	OTHER:
+		('g e r s', None), score: 8
+		('g', 'e r s'), score: 1000
+		('g e r s', None), score: 8
+		('g', 'e r s'), score: 1000
+
+g a t e s
+	SELECTED: ('g', 'a t e s'), score: 259, other:4
+	OTHER:
+		('g a t e s', None), score: 8
+
+g a t e
+	SELECTED: ('g', 'a t e'), score: 263, other:4
+	OTHER:
+		('g a t e', None), score: 8
+
+f y i n g
+	SELECTED: ('f y', 'i n g'), score: 3995, other:4
+	OTHER:
+		('f y i n g', None), score: 8
+		('f', 'y i n g'), score: 155
+		('f y i n g', None), score: 8
+		('f', 'y i n g'), score: 155
+
+f o r m i s t s
+	SELECTED: ('f o r m i s t s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+f o r m i s t
+	SELECTED: ('f o r m i s t', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+f o l d
+	SELECTED: ('f o l d', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+f i r e
+	SELECTED: ('f i r e', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+f i n a l s
+	SELECTED: ('f i n a l s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+f i n a l
+	SELECTED: ('f i n a l', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+f i e s
+	SELECTED: ('f', 'i e s'), score: 399, other:4
+	OTHER:
+		('f i e s', None), score: 8
+
+f i e d
+	SELECTED: ('f', 'i e d'), score: 159, other:4
+	OTHER:
+		('f i e d', None), score: 8
+
+f e s
+	SELECTED: ('f e', 's'), score: 11788, other:4
+	OTHER:
+		('f e s', None), score: 8
+		('f', 'e s'), score: 2464
+		('f e s', None), score: 8
+		('f', 'e s'), score: 2464
+
+f e e t
+	SELECTED: ('f e', 'e t'), score: 48, other:4
+	OTHER:
+		('f e e t', None), score: 8
+
+e x
+	SELECTED: ('e', 'x'), score: 2986, other:4
+	OTHER:
+		('e x', None), score: 8
+
+e w a y s
+	SELECTED: ('e', 'w a y s'), score: 2990, other:4
+	OTHER:
+		('e w a y s', None), score: 8
+
+e w a y
+	SELECTED: ('e', 'w a y'), score: 2994, other:4
+	OTHER:
+		('e w a y', None), score: 8
+		('e w a y', None), score: 8
+		('e w', 'a y'), score: 11
+
+e t y
+	SELECTED: ('e', 't y'), score: 2998, other:4
+	OTHER:
+		('e t y', None), score: 8
+		('e t y', None), score: 8
+		('e t', 'y'), score: 1271
+
+e t r e e s
+	SELECTED: ('e', 't r e e s'), score: 3002, other:4
+	OTHER:
+		('e t r e e s', None), score: 8
+
+e t r e e
+	SELECTED: ('e', 't r e e'), score: 3006, other:4
+	OTHER:
+		('e t r e e', None), score: 8
+
+e t i e s
+	SELECTED: ('e', 't i e s'), score: 3010, other:4
+	OTHER:
+		('e t i e s', None), score: 8
+		('e t i e s', None), score: 8
+		('e t', 'i e s'), score: 403
+
+e s t o n e
+	SELECTED: ('e', 's t o n e'), score: 3014, other:4
+	OTHER:
+		('e s t o n e', None), score: 8
+		('e s', 't o n e'), score: 2464
+		('e s t o n e', None), score: 8
+		('e s', 't o n e'), score: 2464
+
+e s t h e a r t e d
+	SELECTED: ('e s t', 'h e a r t e d'), score: 208, other:4
+	OTHER:
+		('e s t h e a r t e d', None), score: 8
+
+e s m e n
+	SELECTED: ('e', 's m e n'), score: 3018, other:4
+	OTHER:
+		('e s m e n', None), score: 8
+		('e s', 'm e n'), score: 2464
+		('e s m e n', None), score: 8
+		('e s', 'm e n'), score: 2464
+
+e s m a n
+	SELECTED: ('e', 's m a n'), score: 3022, other:4
+	OTHER:
+		('e s m a n', None), score: 8
+		('e s', 'm a n'), score: 2464
+		('e s m a n', None), score: 8
+		('e s', 'm a n'), score: 2464
+
+e r s h i p
+	SELECTED: ('e r', 's h i p'), score: 2385, other:4
+	OTHER:
+		('e r s h i p', None), score: 8
+
+e n d
+	SELECTED: ('e n', 'd'), score: 343, other:4
+	OTHER:
+		('e n d', None), score: 8
+
+e n c y
+	SELECTED: ('e n', 'c y'), score: 315, other:4
+	OTHER:
+		('e n c y', None), score: 8
+
+e m i n d e d n e s s
+	SELECTED: ('e', 'm i n d e d n e s s'), score: 3026, other:4
+	OTHER:
+		('e m i n d e d n e s s', None), score: 8
+		('e m i n d e d n e s s', None), score: 8
+		('e m i n d e d', 'n e s s'), score: 494
+
+e l i n e s
+	SELECTED: ('e', 'l i n e s'), score: 3030, other:4
+	OTHER:
+		('e l i n e s', None), score: 8
+
+e l i n e
+	SELECTED: ('e', 'l i n e'), score: 3034, other:4
+	OTHER:
+		('e l i n e', None), score: 8
+
+e k e e p e r s
+	SELECTED: ('e', 'k e e p e r s'), score: 3038, other:4
+	OTHER:
+		('e k e e p e r s', None), score: 8
+
+e k e e p e r
+	SELECTED: ('e', 'k e e p e r'), score: 3042, other:4
+	OTHER:
+		('e k e e p e r', None), score: 8
+
+e h o u s e s
+	SELECTED: ('e', 'h o u s e s'), score: 3046, other:4
+	OTHER:
+		('e h o u s e s', None), score: 8
+
+e h o u s e
+	SELECTED: ('e', 'h o u s e'), score: 3050, other:4
+	OTHER:
+		('e h o u s e', None), score: 8
+
+e h o l d e r s
+	SELECTED: ('e h o l d e r s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+e h o l d e r
+	SELECTED: ('e h o l d e r', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+e h e a d s
+	SELECTED: ('e', 'h e a d s'), score: 3054, other:4
+	OTHER:
+		('e h e a d s', None), score: 8
+
+e h e a d
+	SELECTED: ('e', 'h e a d'), score: 3058, other:4
+	OTHER:
+		('e h e a d', None), score: 8
+
+e e n
+	SELECTED: ('e', 'e n'), score: 3062, other:4
+	OTHER:
+		('e e n', None), score: 8
+		('e e n', None), score: 8
+		('e e', 'n'), score: 223
+
+e e i n g
+	SELECTED: ('e e', 'i n g'), score: 3999, other:4
+	OTHER:
+		('e e i n g', None), score: 8
+
+e c t
+	SELECTED: ('e', 'c t'), score: 3066, other:4
+	OTHER:
+		('e c t', None), score: 8
+
+e b o x e s
+	SELECTED: ('e', 'b o x e s'), score: 3070, other:4
+	OTHER:
+		('e b o x e s', None), score: 8
+
+e b o x
+	SELECTED: ('e', 'b o x'), score: 3074, other:4
+	OTHER:
+		('e b o x', None), score: 8
+
+e b o a r d s
+	SELECTED: ('e b o a r d', 's'), score: 11792, other:4
+	OTHER:
+		('e b o a r d s', None), score: 8
+		('e', 'b o a r d s'), score: 3078
+		('e b o a r d s', None), score: 8
+		('e', 'b o a r d s'), score: 3078
+
+e a b i l i t y
+	SELECTED: ('e', 'a b i l i t y'), score: 3078, other:4
+	OTHER:
+		('e a b i l i t y', None), score: 8
+
+d n e s s
+	SELECTED: ('d', 'n e s s'), score: 494, other:4
+	OTHER:
+		('d n e s s', None), score: 8
+
+d e s t
+	SELECTED: ('d', 'e s t'), score: 351, other:4
+	OTHER:
+		('d e s t', None), score: 8
+
+d e n s
+	SELECTED: ('d e n', 's'), score: 11796, other:4
+	OTHER:
+		('d e n s', None), score: 8
+		('d', 'e n s'), score: 355
+		('d e n s', None), score: 8
+		('d', 'e n s'), score: 355
+
+d e
+	SELECTED: ('d', 'e'), score: 3082, other:4
+	OTHER:
+		('d e', None), score: 8
+
+c o u r s e
+	SELECTED: ('c o u r s e', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+c o r n
+	SELECTED: ('c o r n', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+c o n s c i o u s
+	SELECTED: ('c o n s c i o u s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+c o n d u c t o r s
+	SELECTED: ('c o n d u c t o r s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+c o n d u c t o r
+	SELECTED: ('c o n d u c t o r', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+c o l l e c t o r s
+	SELECTED: ('c o l l e c t o r s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+c o l l e c t o r
+	SELECTED: ('c o l l e c t o r', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+c l u b s
+	SELECTED: ('c l u b s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+c l u b
+	SELECTED: ('c l u b', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+c a t i o n
+	SELECTED: ('c a t', 'i o n'), score: 398, other:4
+	OTHER:
+		('c a t i o n', None), score: 8
+		('c', 'a t i o n'), score: 287
+		('c a t i o n', None), score: 8
+		('c', 'a t i o n'), score: 287
+
+c a r d s
+	SELECTED: ('c a r', 'd s'), score: 50, other:4
+	OTHER:
+		('c a r d s', None), score: 8
+
+c a r d
+	SELECTED: ('c a r', 'd'), score: 359, other:4
+	OTHER:
+		('c a r d', None), score: 8
+
+b r u s h
+	SELECTED: ('b r u s h', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b r e a k s
+	SELECTED: ('b r e a k s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b r e a k e r s
+	SELECTED: ('b r e a k e r s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b r e a k e r
+	SELECTED: ('b r e a k e r', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b r e a k
+	SELECTED: ('b r e a k', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b o w l s
+	SELECTED: ('b o w l s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b o w l
+	SELECTED: ('b o w l', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b l a c k
+	SELECTED: ('b l a c k', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b i l l s
+	SELECTED: ('b i l l s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b i l l
+	SELECTED: ('b i l l', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b i l i t y
+	SELECTED: ('b i l i t y', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b e s t
+	SELECTED: ('b e s t', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b e r y
+	SELECTED: ('b e r', 'y'), score: 1271, other:4
+	OTHER:
+		('b e r y', None), score: 8
+
+b e l l
+	SELECTED: ('b e l l', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b e a t e r s
+	SELECTED: ('b e a t e r s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b e a t e r
+	SELECTED: ('b e a t e r', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b a t h s
+	SELECTED: ('b a t h s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+b a t h
+	SELECTED: ('b a t h', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+a w a y
+	SELECTED: ('a', 'w a y'), score: 112, other:4
+	OTHER:
+		('a w a y', None), score: 8
+
+a t i c a l
+	SELECTED: ('a t i c', 'a l'), score: 315, other:4
+	OTHER:
+		('a t i c a l', None), score: 8
+		('a', 't i c a l'), score: 116
+		('a t i c a l', None), score: 8
+		('a', 't i c a l'), score: 116
+
+a r l y
+	SELECTED: ('a r', 'l y'), score: 1302, other:4
+	OTHER:
+		('a r l y', None), score: 8
+
+a r i l y
+	SELECTED: ('a r', 'i l y'), score: 148, other:4
+	OTHER:
+		('a r i l y', None), score: 8
+
+a n s
+	SELECTED: ('a', 'n s'), score: 116, other:4
+	OTHER:
+		('a n s', None), score: 8
+
+a n
+	SELECTED: ('a', 'n'), score: 223, other:4
+	OTHER:
+		('a n', None), score: 8
+
+a l i z a t i o n
+	SELECTED: ('a l', 'i z a t i o n'), score: 319, other:4
+	OTHER:
+		('a l i z a t i o n', None), score: 8
+
+a l i t i e s
+	SELECTED: ('a l', 'i t i e s'), score: 323, other:4
+	OTHER:
+		('a l i t i e s', None), score: 8
+
+a l i s t s
+	SELECTED: ('a l', 'i s t s'), score: 327, other:4
+	OTHER:
+		('a l i s t s', None), score: 8
+		('a l i s t s', None), score: 8
+		('a', 'l i s t s'), score: 124
+
+a l i s t
+	SELECTED: ('a l', 'i s t'), score: 331, other:4
+	OTHER:
+		('a l i s t', None), score: 8
+		('a l i s t', None), score: 8
+		('a', 'l i s t'), score: 124
+
+a i r e s
+	SELECTED: ('a i r e s', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+a i r e
+	SELECTED: ('a i r e', None), score: 4, other:NO PARSING AVAILABLE
+	OTHER:
+
+a e
+	SELECTED: ('a', 'e'), score: 3086, other:4
+	OTHER:
+		('a e', None), score: 8
+
+a c y
+	SELECTED: ('a', 'c y'), score: 128, other:4
+	OTHER:
+		('a c y', None), score: 8
+
+y n e s s
+	SELECTED: ('y', 'n e s s'), score: 1274, other:3
+	OTHER:
+		('y n e s s', None), score: 6
+
+y i s m
+	SELECTED: ('y', 'i s m'), score: 1277, other:3
+	OTHER:
+		('y i s m', None), score: 6
+
+y e d
+	SELECTED: ('y', 'e d'), score: 4058, other:3
+	OTHER:
+		('y e d', None), score: 6
+
+w s
+	SELECTED: ('w s', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+w o r t h i n e s s
+	SELECTED: ('w o r t h i n e s s', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+w o r k e r s
+	SELECTED: ('w o r k', 'e r s'), score: 999, other:3
+	OTHER:
+		('w o r k e r s', None), score: 6
+
+w o r k e r
+	SELECTED: ('w o r k', 'e r'), score: 2388, other:3
+	OTHER:
+		('w o r k e r', None), score: 6
+
+w i r e s
+	SELECTED: ('w i r e', 's'), score: 11799, other:3
+	OTHER:
+		('w i r e s', None), score: 6
+
+w e a r
+	SELECTED: ('w e a r', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+w
+	SELECTED: ('w', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+v e r s
+	SELECTED: ('v e r', 's'), score: 11802, other:3
+	OTHER:
+		('v e r s', None), score: 6
+		('v e', 'r s'), score: 38
+		('v e r s', None), score: 6
+		('v e', 'r s'), score: 38
+
+u t i o n
+	SELECTED: ('u t i o n', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+u r a n c e
+	SELECTED: ('u r', 'a n c e'), score: 58, other:3
+	OTHER:
+		('u r a n c e', None), score: 6
+
+u m s
+	SELECTED: ('u m', 's'), score: 11805, other:3
+	OTHER:
+		('u m s', None), score: 6
+
+u a t i n g
+	SELECTED: ('u a t i n g', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+u a t e s
+	SELECTED: ('u a t e s', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+u a t e d
+	SELECTED: ('u a t e d', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+u a t e
+	SELECTED: ('u a t e', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+u a l i s t s
+	SELECTED: ('u a l', 'i s t s'), score: 122, other:3
+	OTHER:
+		('u a l i s t s', None), score: 6
+
+u a l i s t
+	SELECTED: ('u a l', 'i s t'), score: 143, other:3
+	OTHER:
+		('u a l i s t', None), score: 6
+
+u a l i s m
+	SELECTED: ('u a l', 'i s m'), score: 146, other:3
+	OTHER:
+		('u a l i s m', None), score: 6
+
+t y p e s
+	SELECTED: ('t y p e s', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+t y p e
+	SELECTED: ('t y p e', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+t r o p i c a l
+	SELECTED: ('t r o p i c a l', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+t r a c k s
+	SELECTED: ('t r a c k s', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+t r a c k
+	SELECTED: ('t r a c k', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+t o o t h
+	SELECTED: ('t o', 'o t h'), score: 30, other:3
+	OTHER:
+		('t o o t h', None), score: 6
+
+t o n e s
+	SELECTED: ('t o n e', 's'), score: 11808, other:3
+	OTHER:
+		('t o n e s', None), score: 6
+
+t i z i n g
+	SELECTED: ('t', 'i z i n g'), score: 895, other:3
+	OTHER:
+		('t i z i n g', None), score: 6
+
+t i z e s
+	SELECTED: ('t', 'i z e s'), score: 898, other:3
+	OTHER:
+		('t i z e s', None), score: 6
+
+t i z e d
+	SELECTED: ('t', 'i z e d'), score: 901, other:3
+	OTHER:
+		('t i z e d', None), score: 6
+
+t i z e
+	SELECTED: ('t', 'i z e'), score: 904, other:3
+	OTHER:
+		('t i z e', None), score: 6
+
+t i v e l y
+	SELECTED: ('t i v e', 'l y'), score: 1305, other:3
+	OTHER:
+		('t i v e l y', None), score: 6
+		('t', 'i v e l y'), score: 907
+		('t i v e l y', None), score: 6
+		('t', 'i v e l y'), score: 907
+
+t i s m
+	SELECTED: ('t', 'i s m'), score: 907, other:3
+	OTHER:
+		('t i s m', None), score: 6
+
+t i e
+	SELECTED: ('t', 'i e'), score: 910, other:3
+	OTHER:
+		('t i e', None), score: 6
+
+t i d e s
+	SELECTED: ('t i d e', 's'), score: 11811, other:3
+	OTHER:
+		('t i d e s', None), score: 6
+
+t h y
+	SELECTED: ('t h', 'y'), score: 1283, other:3
+	OTHER:
+		('t h y', None), score: 6
+
+t h i n g s
+	SELECTED: ('t h i n g', 's'), score: 11814, other:3
+	OTHER:
+		('t h i n g s', None), score: 6
+		('t h', 'i n g s'), score: 73
+		('t h i n g s', None), score: 6
+		('t h', 'i n g s'), score: 73
+
+t h i l y
+	SELECTED: ('t h', 'i l y'), score: 151, other:3
+	OTHER:
+		('t h i l y', None), score: 6
+
+t h i e s t
+	SELECTED: ('t h', 'i e s t'), score: 444, other:3
+	OTHER:
+		('t h i e s t', None), score: 6
+
+t h i e r
+	SELECTED: ('t h', 'i e r'), score: 516, other:3
+	OTHER:
+		('t h i e r', None), score: 6
+
+t h f u l
+	SELECTED: ('t h', 'f u l'), score: 271, other:3
+	OTHER:
+		('t h f u l', None), score: 6
+
+t e m p o r a n e o u s l y
+	SELECTED: ('t e m p o r a n e o u s l y', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+t e m p o r a n e o u s
+	SELECTED: ('t e m p o r a n e o u s', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+t e e t h
+	SELECTED: ('t e e t h', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+t a t i o n s
+	SELECTED: ('t', 'a t i o n s'), score: 913, other:3
+	OTHER:
+		('t a t i o n s', None), score: 6
+
+t a t i o n
+	SELECTED: ('t', 'a t i o n'), score: 916, other:3
+	OTHER:
+		('t a t i o n', None), score: 6
+
+t a r y
+	SELECTED: ('t', 'a r y'), score: 919, other:3
+	OTHER:
+		('t a r y', None), score: 6
+
+t a l l y
+	SELECTED: ('t a l', 'l y'), score: 1308, other:3
+	OTHER:
+		('t a l l y', None), score: 6
+		('t', 'a l l y'), score: 922
+		('t a l l y', None), score: 6
+		('t', 'a l l y'), score: 922
+
+t a k i n g
+	SELECTED: ('t a k i n g', None), score: 3, other:NO PARSING AVAILABLE
+	OTHER:
+
+t a i l e d
+	SELECTED: ('t a i l', 'e d'), score: 4061, other:3
+	OTHER:
+		('t a i l e d', None), score: 6
+
+t a b l y
+	SELECTED: ('t', 'a b l y'), score: 922, other:3
+	OTHER:
+		('t a b l y', None), score: 6

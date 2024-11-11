@@ -1,0 +1,440 @@
+<style>
+
+table.alignment,
+table.infos,
+table.infos th,
+table.infos td, 
+table.infos tr,
+table.alignment th,
+table.alignment td, 
+table.alignment tr {
+  border:0;
+  border-collapse: collapse;
+}
+
+table.infos {
+  max-width:90%;
+  height:250px;
+}
+
+table.alignment.right thead tr:first-of-type th:first-child,
+table.infos thead,
+table.alignment thead tr:nth-child(2),
+table.alignment.right tbody tr th {
+  display:none;
+}
+
+table.alignment thead tr:nth-child(1) th {
+  font-size: 60%;
+  text-align:center;
+}
+
+
+table.alignment-infos tbody tr th {
+  text-align: left;
+  padding-right:20px;
+}
+
+table.alignment-infos tbody tr td {
+  text-align: left;
+  background-color:#fff;
+}
+table.alignment tbody tr th {
+  text-align: left;
+  font-variant: small-caps;
+}
+
+table.alignment th {
+  font-weight:normal;
+}
+
+table.alignment tbody td {
+  text-align:center;
+  vertical-align:middle;
+}
+
+table.alignment th, table.alignment td {
+  padding:0;
+}
+
+table.alignment thead tr:nth-child(2) th:nth-child(even),
+tbody td:nth-child(even), tbody tr:hover td {
+  background-color: #fafafa;
+}
+
+h1 {
+clear:both;
+}
+
+table.alignment .sound-0x2d {
+  color:#ddd;
+}
+table.alignment .sound-0x63 { display:block;
+background-color:#ff99a9;
+}
+
+table.alignment .sound-0x78 { display:block;
+background-color:#ff999f;
+}
+
+table.alignment .sound-0x53 { display:block;
+background-color:#ff9d99;
+}
+
+table.alignment .sound-0x5a { display:block;
+background-color:#ffa799;
+}
+
+table.alignment .sound-0x2c { display:block;
+background-color:#ffb199;
+}
+
+table.alignment .sound-0x56 { display:block;
+background-color:#ffbb99;
+}
+
+table.alignment .sound-0x6e { display:block;
+background-color:#ffc599;
+}
+
+table.alignment .sound-0x79 { display:block;
+background-color:#ffcf99;
+}
+
+table.alignment .sound-0x51 { display:block;
+background-color:#ffd999;
+}
+
+table.alignment .sound-0x76 { display:block;
+background-color:#ffe399;
+}
+
+table.alignment .sound-0x57 { display:block;
+background-color:#ffed99;
+}
+
+table.alignment .sound-0x4e { display:block;
+background-color:#fff799;
+}
+
+table.alignment .sound-0x6f { display:block;
+background-color:#fdff99;
+}
+
+table.alignment .sound-0x77 { display:block;
+background-color:#f3ff99;
+}
+
+table.alignment .sound-0x4a { display:block;
+background-color:#e9ff99;
+}
+
+table.alignment .sound-0x43 { display:block;
+background-color:#dfff99;
+}
+
+table.alignment .sound-0x27 { display:block;
+background-color:#d5ff99;
+}
+
+table.alignment .sound-0x55 { display:block;
+background-color:#cbff99;
+}
+
+table.alignment .sound-0x68 { display:block;
+background-color:#c1ff99;
+}
+
+table.alignment .sound-0x4f { display:block;
+background-color:#b7ff99;
+}
+
+table.alignment .sound-0x72 { display:block;
+background-color:#adff99;
+}
+
+table.alignment .sound-0x42 { display:block;
+background-color:#a3ff99;
+}
+
+table.alignment .sound-0x4c { display:block;
+background-color:#99ff99;
+}
+
+table.alignment .sound-0x44 { display:block;
+background-color:#99ffa3;
+}
+
+table.alignment .sound-0x6d { display:block;
+background-color:#99ffad;
+}
+
+table.alignment .sound-0x50 { display:block;
+background-color:#99ffb7;
+}
+
+table.alignment .sound-0x54 { display:block;
+background-color:#99ffc1;
+}
+
+table.alignment .sound-0x74 { display:block;
+background-color:#99ffcb;
+}
+
+table.alignment .sound-0x75 { display:block;
+background-color:#99ffd5;
+}
+
+table.alignment .sound-0x46 { display:block;
+background-color:#99ffdf;
+}
+
+table.alignment .sound-0x64 { display:block;
+background-color:#99ffe9;
+}
+
+table.alignment .sound-0x62 { display:block;
+background-color:#99fff3;
+}
+
+table.alignment .sound-0x5f { display:block;
+background-color:#99fffd;
+}
+
+table.alignment .sound-0x61 { display:block;
+background-color:#99f7ff;
+}
+
+table.alignment .sound-0x67 { display:block;
+background-color:#99edff;
+}
+
+table.alignment .sound-0x6b { display:block;
+background-color:#99e3ff;
+}
+
+table.alignment .sound-0x4b { display:block;
+background-color:#99d9ff;
+}
+
+table.alignment .sound-0x70 { display:block;
+background-color:#99cfff;
+}
+
+table.alignment .sound-0x7a { display:block;
+background-color:#99c5ff;
+}
+
+table.alignment .sound-0x47 { display:block;
+background-color:#99bbff;
+}
+
+table.alignment .sound-0x66 { display:block;
+background-color:#99b1ff;
+}
+
+table.alignment .sound-0x59 { display:block;
+background-color:#99a7ff;
+}
+
+table.alignment .sound-0x41 { display:block;
+background-color:#999dff;
+}
+
+table.alignment .sound-0x49 { display:block;
+background-color:#a099ff;
+}
+
+table.alignment .sound-0x58 { display:block;
+background-color:#aa99ff;
+}
+
+table.alignment .sound-0x2e { display:block;
+background-color:#b499ff;
+}
+
+table.alignment .sound-0x71 { display:block;
+background-color:#be99ff;
+}
+
+table.alignment .sound-0x4d { display:block;
+background-color:#c899ff;
+}
+
+table.alignment .sound-0x6c { display:block;
+background-color:#d299ff;
+}
+
+table.alignment .sound-0x65 { display:block;
+background-color:#dc99ff;
+}
+
+table.alignment .sound-0x48 { display:block;
+background-color:#e699ff;
+}
+
+table.alignment .sound-0x73 { display:block;
+background-color:#f099ff;
+}
+
+table.alignment .sound-0x69 { display:block;
+background-color:#fa99ff;
+}
+
+table.alignment .sound-0x45 { display:block;
+background-color:#ff99fa;
+}
+
+table.alignment .sound-0x6a { display:block;
+background-color:#ff99f0;
+}
+
+table.alignment .sound-0x52 { display:block;
+background-color:#ff99e5;
+}
+</style>
+
+<h1>celex.removed.nodash.csv word blotch</h1>
+<div class='example-container'>
+<table border="1" class="dataframe infos">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>0</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Lexeme</th>
+      <td>blotch</td>
+    </tr>
+    <tr>
+      <th>Stem (LCS)</th>
+      <td>b l o t c h -</td>
+    </tr>
+    <tr>
+      <th>Marker set size</th>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>Marker set members examples</th>
+      <td>blotch, mush</td>
+    </tr>
+    <tr>
+      <th>Alignment method</th>
+      <td>Simple edit score, Progressive alignment</td>
+    </tr>
+  </tbody>
+</table>
+<table border="1" class="dataframe alignment">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>0</th>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+      <th>4</th>
+      <th>5</th>
+      <th>6</th>
+      <th>7</th>
+      <th>8</th>
+      <th>9</th>
+      <th>10</th>
+      <th>11</th>
+    </tr>
+    <tr>
+      <th>cell</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td><span class='sound-0x62'>b</span></td>
+      <td><span class='sound-0x6c'>l</span></td>
+      <td><span class='sound-0x6f'>o</span></td>
+      <td><span class='sound-0x74'>t</span></td>
+      <td><span class='sound-0x63'>c</span></td>
+      <td><span class='sound-0x68'>h</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td><span class='sound-0x62'>b</span></td>
+      <td><span class='sound-0x6c'>l</span></td>
+      <td><span class='sound-0x6f'>o</span></td>
+      <td><span class='sound-0x74'>t</span></td>
+      <td><span class='sound-0x63'>c</span></td>
+      <td><span class='sound-0x68'>h</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x65'>e</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x73'>s</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td><span class='sound-0x62'>b</span></td>
+      <td><span class='sound-0x6c'>l</span></td>
+      <td><span class='sound-0x6f'>o</span></td>
+      <td><span class='sound-0x74'>t</span></td>
+      <td><span class='sound-0x63'>c</span></td>
+      <td><span class='sound-0x68'>h</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x69'>i</span></td>
+      <td><span class='sound-0x65'>e</span></td>
+      <td><span class='sound-0x72'>r</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td><span class='sound-0x62'>b</span></td>
+      <td><span class='sound-0x6c'>l</span></td>
+      <td><span class='sound-0x6f'>o</span></td>
+      <td><span class='sound-0x74'>t</span></td>
+      <td><span class='sound-0x63'>c</span></td>
+      <td><span class='sound-0x68'>h</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x69'>i</span></td>
+      <td><span class='sound-0x65'>e</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x73'>s</span></td>
+      <td><span class='sound-0x74'>t</span></td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td><span class='sound-0x62'>b</span></td>
+      <td><span class='sound-0x6c'>l</span></td>
+      <td><span class='sound-0x6f'>o</span></td>
+      <td><span class='sound-0x74'>t</span></td>
+      <td><span class='sound-0x63'>c</span></td>
+      <td><span class='sound-0x68'>h</span></td>
+      <td><span class='sound-0x79'>y</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+      <td><span class='sound-0x2d'>-</span></td>
+    </tr>
+  </tbody>
+</table>
+</div>
